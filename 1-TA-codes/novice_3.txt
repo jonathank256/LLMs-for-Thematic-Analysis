@@ -1,0 +1,152 @@
+[
+  {
+    "Code 1": "Focus on limb configuration",
+    "Description": "Participant prioritizes assessing leg and arm configuration.",
+    "Quote": "the things I immediately notice are the configuration of the legs and arms"
+  },
+  {
+    "Code 2": "Bipedal stance",
+    "Description": "Participant describes two legs on the ground (bipedal).",
+    "Quote": "2 legs on the ground"
+  },
+  {
+    "Code 3": "Reduced forelimbs",
+    "Description": "Participant notes smaller, shorter forelimbs.",
+    "Quote": "the smaller, shorter arms"
+  },
+  {
+    "Code 4": "Long neck",
+    "Description": "Participant describes a long neck.",
+    "Quote": "a long neck"
+  },
+  {
+    "Code 5": "Small head",
+    "Description": "Participant describes a small head.",
+    "Quote": "a kind of small head."
+  },
+  {
+    "Code 6": "Small mouth",
+    "Description": "Participant describes a small mouth.",
+    "Quote": "a small mouth as well"
+  },
+  {
+    "Code 7": "Very long tail",
+    "Description": "Participant describes a very long tail.",
+    "Quote": "a very long tail"
+  },
+  {
+    "Code 8": "Head-focused observation",
+    "Description": "Participant goes directly to examining the head.",
+    "Quote": "I go directly to the head"
+  },
+  {
+    "Code 9": "Coloration deprioritized",
+    "Description": "Participant notices coloration but considers it last.",
+    "Quote": "The coloration is another thing I noticed. But that would be the last thing that I would consider about this."
+  },
+  {
+    "Code 10": "Bipedal stance",
+    "Description": "Reiterates two legs on the ground.",
+    "Quote": "the 2 legs on the ground"
+  },
+  {
+    "Code 11": "Reduced forelimbs",
+    "Description": "Notes two smaller arms.",
+    "Quote": "the 2 smaller... 2 smaller arms"
+  },
+  {
+    "Code 12": "Shorter neck",
+    "Description": "Describes a slightly shorter neck.",
+    "Quote": "a slightly shorter neck"
+  },
+  {
+    "Code 13": "Wide, long mouth",
+    "Description": "Describes the mouth as wider and longer.",
+    "Quote": "the wider, longer mouth."
+  },
+  {
+    "Code 14": "Large head (relative)",
+    "Description": "Describes head as quite big compared to other examples.",
+    "Quote": "Um...and quite a big head compared to some of the examples,"
+  },
+  {
+    "Code 15": "Consistent tail",
+    "Description": "Describes tail as consistent with others.",
+    "Quote": "a similar kind of consistent tail,"
+  },
+  {
+    "Code 16": "Coloration similar to others",
+    "Description": "Notes coloration pattern similar to other dinosaurs.",
+    "Quote": "the coloration pattern... is... yeah, similar to some of the other dinosaurs."
+  },
+  {
+    "Code 17": "Bipedal stance",
+    "Description": "Again notes two legs on the ground.",
+    "Quote": "the 2 legs on the ground"
+  },
+  {
+    "Code 18": "Reduced forelimbs",
+    "Description": "Mentions slightly smaller arms.",
+    "Quote": "the slightly smaller arms"
+  },
+  {
+    "Code 19": "Longer neck",
+    "Description": "Describes a longer neck.",
+    "Quote": "a longer neck"
+  },
+  {
+    "Code 20": "Very small head",
+    "Description": "Describes a very small head.",
+    "Quote": "a very small head,"
+  },
+  {
+    "Code 21": "Beak-like mouth",
+    "Description": "Characterizes mouth as beak-like.",
+    "Quote": "with almost kind of a beak-like mouth,"
+  },
+  {
+    "Code 22": "Very long tail",
+    "Description": "Again describes a very long tail.",
+    "Quote": "a very long tail"
+  },
+  {
+    "Code 23": "Elongated body shape",
+    "Description": "Describes an elongated body shape.",
+    "Quote": "an elongated body shape."
+  },
+  {
+    "Code 24": "Quadrupedal stance",
+    "Description": "Describes all four legs on the ground (quadrupedal).",
+    "Quote": "it has all 4 legs on the ground."
+  },
+  {
+    "Code 25": "Large head",
+    "Description": "Describes a fairly large head.",
+    "Quote": "a fairly large head,"
+  },
+  {
+    "Code 26": "Obscure head pattern",
+    "Description": "Notes an obscure pattern in the head region.",
+    "Quote": "kind of an obscure pattern in the head region,"
+  },
+  {
+    "Code 27": "Weird coloration",
+    "Description": "Describes coloration as weird.",
+    "Quote": "some weird coloration,"
+  },
+  {
+    "Code 28": "Dorsal spikes",
+    "Description": "Notes spikes along the back.",
+    "Quote": "these spikes that run along its back,"
+  },
+  {
+    "Code 29": "Large body",
+    "Description": "Describes a fairly big body.",
+    "Quote": "a fairly big body"
+  },
+  {
+    "Code 30": "Short tail relative to body",
+    "Description": "Notes a short tail relative to body.",
+    "Quote": "more of a short tail in comparison to the body."
+  }
+]

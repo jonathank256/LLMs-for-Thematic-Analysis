@@ -1,0 +1,127 @@
+[
+  {
+    "Code 1": "Bipedal",
+    "Description": "Mentions bipedal stance.",
+    "Quote": "a bipedal thing"
+  },
+  {
+    "Code 2": "Beak",
+    "Description": "Notes presence of a beak.",
+    "Quote": "with a beak."
+  },
+  {
+    "Code 3": "Uncertainty",
+    "Description": "Expresses uncertainty about identification.",
+    "Quote": "I'm actually not sure what that is."
+  },
+  {
+    "Code 4": "Two manual digits",
+    "Description": "States two digits per hand.",
+    "Quote": "2 - 2 digits per hand,"
+  },
+  {
+    "Code 5": "Long neck",
+    "Description": "Notes a fairly long neck.",
+    "Quote": "fairly long neck,"
+  },
+  {
+    "Code 6": "Elongate tail",
+    "Description": "Describes a long, elongate tail.",
+    "Quote": "Long elongate tail,"
+  },
+  {
+    "Code 7": "Small size",
+    "Description": "Suggests small body size.",
+    "Quote": "Maybe it's some sort of small basal ornithischian."
+  },
+  {
+    "Code 8": "Basal ornithischian",
+    "Description": "Suggests taxonomic placement as a basal ornithischian.",
+    "Quote": "Maybe it's some sort of small basal ornithischian."
+  },
+  {
+    "Code 9": "Theropod",
+    "Description": "Identifies the specimen as a theropod.",
+    "Quote": "That's clearly a theropod."
+  },
+  {
+    "Code 10": "Three manual digits",
+    "Description": "Notes three fingers per hand.",
+    "Quote": "3 fingers per hand,"
+  },
+  {
+    "Code 11": "Reduced first pedal digit",
+    "Description": "Notes reduction of the first digit on each foot.",
+    "Quote": "reduced 1st digit on each foot."
+  },
+  {
+    "Code 12": "Moderately derived theropod",
+    "Description": "Characterizes the theropod as moderately derived.",
+    "Quote": "a sort of a moderately derived theropod."
+  },
+  {
+    "Code 13": "Allosaurus neighborhood",
+    "Description": "Suggests affinity to the Allosaurus group/neighborhood.",
+    "Quote": "Maybe something in the allosaurus neighborhood."
+  },
+  {
+    "Code 14": "Basal sauropodomorph",
+    "Description": "Identifies the specimen as a basal sauropodomorph.",
+    "Quote": "a basal sauropodomorph."
+  },
+  {
+    "Code 15": "Heavy body",
+    "Description": "Notes a heavy body.",
+    "Quote": "Heavy body,"
+  },
+  {
+    "Code 16": "Long neck",
+    "Description": "Notes a long neck.",
+    "Quote": "long neck,"
+  },
+  {
+    "Code 17": "Five manual digits (probable)",
+    "Description": "Suggests probably five digits per hand.",
+    "Quote": "probably 5 digits per hand,"
+  },
+  {
+    "Code 18": "Bipedal",
+    "Description": "States bipedal locomotion.",
+    "Quote": "a biped, as many of them may have been,"
+  },
+  {
+    "Code 19": "Long heavy tail",
+    "Description": "Describes a good, long, heavy tail.",
+    "Quote": "a good, long, heavy tail."
+  },
+  {
+    "Code 20": "Lambeosaurus lambei",
+    "Description": "Identifies the specimen as Lambeosaurus lambei.",
+    "Quote": "That is, Lambeosaurus lambei, from the look of things."
+  },
+  {
+    "Code 21": "Hadrosaurid",
+    "Description": "Identifies the specimen as a hadrosaurid.",
+    "Quote": "So that's a hadrosaurid dinosaur quadrupedal."
+  },
+  {
+    "Code 22": "Quadrupedal",
+    "Description": "Notes quadrupedal locomotion.",
+    "Quote": "So that's a hadrosaurid dinosaur quadrupedal."
+  },
+  {
+    "Code 23": "Heavy body",
+    "Description": "Notes a fairly heavy body.",
+    "Quote": "Again, a fairly heavy body"
+  },
+  {
+    "Code 24": "Herbivore",
+    "Description": "States herbivorous diet.",
+    "Quote": "being a herbivore"
+  },
+  {
+    "Code 25": "Convex crest with posterior prong",
+    "Description": "Describes a very convex crest with a posterior prong.",
+    "Quote": "characterized by its very convex crest with a posterior prong."
+  }
+]

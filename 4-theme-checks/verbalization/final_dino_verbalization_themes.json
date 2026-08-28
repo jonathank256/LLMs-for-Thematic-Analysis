@@ -1,0 +1,109 @@
+[
+    {
+        "Theme Name": "Bipedal Characteristics",
+        "Theme Description": "Descriptions of dinosaurs that exhibit bipedal locomotion and associated features.",
+        "Theme-Only Code Numbers": [2, 20, 35, 51],
+        "Subthemes": [
+            {
+                "Subtheme Name": "Physical Features of Bipedal Dinosaurs",
+                "Subtheme Description": "Focusing on the specific physical characteristics and adaptations of bipedal dinosaurs.",
+                "Subtheme Code Numbers": [8, 66, 62, 63, 67]
+            },
+            {
+                "Subtheme Name": "Diet and Behavior",
+                "Subtheme Description": "Identifying dietary habits and behavioral traits associated with bipedal dinosaurs.",
+                "Subtheme Code Numbers": [79, 88, 90]
+            }
+        ]
+    },
+    {
+        "Theme Name": "Quadrupedal Features",
+        "Theme Description": "Descriptions of dinosaurs that walk on four legs and their notable characteristics.",
+        "Theme-Only Code Numbers": [15, 39, 71, 106, 140],
+        "Subthemes": [
+            {
+                "Subtheme Name": "Physical Characteristics of Quadrupeds",
+                "Subtheme Description": "Detailing the specific physical traits and morphology of quadrupedal dinosaurs.",
+                "Subtheme Code Numbers": [32, 36, 72, 73, 109]
+            },
+            {
+                "Subtheme Name": "Behavioral Traits",
+                "Subtheme Description": "Discussing the behaviors and habits characteristic of quadrupedal dinosaurs.",
+                "Subtheme Code Numbers": [93, 96]
+            }
+        ]
+    },
+    {
+        "Theme Name": "Morphological Attributes",
+        "Theme Description": "Focus on the various physical attributes and features of dinosaurs, including size, shape, and coloration.",
+        "Theme-Only Code Numbers": [1, 3, 4, 6, 11],
+        "Subthemes": [
+            {
+                "Subtheme Name": "Body Structure",
+                "Subtheme Description": "Examining the structure and proportions of the dinosaur's body.",
+                "Subtheme Code Numbers": [32, 105, 135]
+            },
+            {
+                "Subtheme Name": "Coloration and Patterns",
+                "Subtheme Description": "Describing the color schemes and patterns observed in different dinosaurs.",
+                "Subtheme Code Numbers": [102, 128, 141]
+            }
+        ]
+    },
+    {
+        "Theme Name": "Identification Challenges",
+        "Theme Description": "Expressions of uncertainty or difficulty in identifying specific dinosaurs and their classifications.",
+        "Theme-Only Code Numbers": [21, 53, 82],
+        "Subthemes": [
+            {
+                "Subtheme Name": "Confusion in Dinosaur Identification",
+                "Subtheme Description": "Highlighting instances where the participant expresses confusion regarding different species.",
+                "Subtheme Code Numbers": [82, 94]
+            },
+            {
+                "Subtheme Name": "Unfamiliar Species",
+                "Subtheme Description": "Discussing dinosaurs that participants do not recognize or have limited knowledge of.",
+                "Subtheme Code Numbers": [120, 49]
+            }
+        ]
+    },
+    {
+        "Theme Name": "Dietary Speculation",
+        "Theme Description": "Speculations and deductions made about the dietary habits of dinosaurs based on their physical features.",
+        "Theme-Only Code Numbers": [58, 18],
+        "Subthemes": [
+            {
+                "Subtheme Name": "Herbivorous Traits",
+                "Subtheme Description": "Identifying characteristics suggesting a herbivorous diet.",
+                "Subtheme Code Numbers": [78, 118, 90]
+            },
+            {
+                "Subtheme Name": "Carnivorous Indicators",
+                "Subtheme Description": "Noting features that may suggest a carnivorous diet.",
+                "Subtheme Code Numbers": [10, 80, 91]
+            }
+        ]
+    },
+    {
+        "Theme Name": "Species Identification",
+        "Theme Description": "Identifying and classifying different dinosaur species based on their characteristics.",
+        "Theme-Only Code Numbers": [25, 26, 31, 45, 47],
+        "Subthemes": [
+            {
+                "Subtheme Name": "Specific Identifications",
+                "Subtheme Description": "References to specific dinosaur names and their classifications.",
+                "Subtheme Code Numbers": [37, 59, 60]
+            },
+            {
+                "Subtheme Name": "General Classifications",
+                "Subtheme Description": "Broad classifications based on known traits and characteristics.",
+                "Subtheme Code Numbers": [38, 41, 49]
+            }
+        ]
+    },
+    {
+        "Theme Name": "Miscellaneous",
+        "Theme Description": "",
+        "Theme-Only Code Numbers": [84, 89]
+    }
+]

@@ -1,0 +1,122 @@
+Code 1: Long necked biped, Description: States the animal is a biped with a long neck., Quote: "So this is a long necked biped with a substantial tail and a small head."
+Code 2: Substantial tail, Description: Notes the tail is substantial., Quote: "So this is a long necked biped with a substantial tail and a small head."
+Code 3: Small head, Description: Identifies the head as small., Quote: "So this is a long necked biped with a substantial tail and a small head."
+Code 4: Substantial arms, Description: Describes the arms as substantial., Quote: "It's got substantial arms with claws."
+Code 5: Arms with claws, Description: Reports the presence of claws on the arms., Quote: "It's got substantial arms with claws."
+Code 6: Green sides and tops, Description: Describes green coloration on the sides and the tops., Quote: "It's pretty much green on the sides and the tops, and it's got a counter shaded yellow belly."
+Code 7: Counter shaded yellow belly, Description: Notes a counter shaded yellow belly., Quote: "It's pretty much green on the sides and the tops, and it's got a counter shaded yellow belly."
+Code 8: Green biped, Description: Identifies a green-colored biped., Quote: "This is another green biped with more slender arms and much longer fingers and claws."
+Code 9: Slender arms, Description: Describes the arms as more slender., Quote: "This is another green biped with more slender arms and much longer fingers and claws."
+Code 10: Much longer fingers and claws, Description: Notes much longer fingers and claws., Quote: "This is another green biped with more slender arms and much longer fingers and claws."
+Code 11: Neck same length as head, Description: States the neck length is moderate and equal to the head length., Quote: "The neck length is moderate, or the same length as the head, but the head is elongate with substantial carnivorous teeth."
+Code 12: Elongate head, Description: Describes the head as elongate., Quote: "The neck length is moderate, or the same length as the head, but the head is elongate with substantial carnivorous teeth."
+Code 13: Substantial carnivorous teeth, Description: Mentions substantial carnivorous teeth., Quote: "The neck length is moderate, or the same length as the head, but the head is elongate with substantial carnivorous teeth."
+Code 14: More slender tail, Description: Notes a more slender tail., Quote: "It's also got a more slender tail, but the tail is the length of the body."
+Code 15: Tail length equals front body, Description: States the tail equals the length of the front part of the body., Quote: "but the tail is the length of the body. I mean the length of the front part of the body."
+Code 16: Biped, Description: Identifies the animal as a biped., Quote: "This is a biped again with very chunky arms and heavy claws."
+Code 17: Very chunky arms, Description: Describes the arms as very chunky., Quote: "This is a biped again with very chunky arms and heavy claws."
+Code 18: Heavy claws, Description: Notes heavy claws., Quote: "This is a biped again with very chunky arms and heavy claws."
+Code 19: Long neck, Description: States the animal has a long neck., Quote: "It's got a long neck and a very small head."
+Code 20: Very small head, Description: Identifies a very small head., Quote: "It's got a long neck and a very small head."
+Code 21: Long counterbalancing tail, Description: Describes a long, counterbalancing tail., Quote: "There's this long, counterbalancing tail going back, which tapers quite quickly."
+Code 22: Tail tapers quickly, Description: Notes that the tail tapers quickly., Quote: "There's this long, counterbalancing tail going back, which tapers quite quickly."
+Code 23: Heavy built quadruped, Description: Identifies a heavily built quadruped., Quote: "This is a heavy built, quadruped."
+Code 24: Long arms not chunky, Description: States the arms are long but not very chunky., Quote: "It's got long arms, but they're not very chunky."
+Code 25: No claws, Description: Reports the absence of claws., Quote: "It doesn't have any claws."
+Code 26: Hooves on hands, Description: States there are hooves on the hands., Quote: "It's got hooves on its hands."
+Code 27: Crest, Description: Notes a crest is present., Quote: "It's also got a crest, and the head is almost the length of the neck, and it's got a relatively short mouth that doesn't extend back the way it did in the other ones, and it's got a rounded, flattish muzzle."
+Code 28: Head almost the length of the neck, Description: States the head is almost as long as the neck., Quote: "It's also got a crest, and the head is almost the length of the neck, and it's got a relatively short mouth that doesn't extend back the way it did in the other ones, and it's got a rounded, flattish muzzle."
+Code 29: Relatively short mouth, Description: Describes the mouth as relatively short., Quote: "It's also got a crest, and the head is almost the length of the neck, and it's got a relatively short mouth that doesn't extend back the way it did in the other ones, and it's got a rounded, flattish muzzle."
+Code 30: Mouth doesn't extend back, Description: Notes the mouth does not extend back as in others., Quote: "It's also got a crest, and the head is almost the length of the neck, and it's got a relatively short mouth that doesn't extend back the way it did in the other ones, and it's got a rounded, flattish muzzle."
+Code 31: Rounded, flattish muzzle, Description: Describes the muzzle as rounded and flattish., Quote: "It's also got a crest, and the head is almost the length of the neck, and it's got a relatively short mouth that doesn't extend back the way it did in the other ones, and it's got a rounded, flattish muzzle."
+Code 32: Bipedal, Description: Mentions bipedal stance., Quote: a bipedal thing
+Code 33: Beak, Description: Notes presence of a beak., Quote: with a beak.
+Code 34: Uncertainty, Description: Expresses uncertainty about identification., Quote: I'm actually not sure what that is.
+Code 35: Two manual digits, Description: States two digits per hand., Quote: 2 - 2 digits per hand,
+Code 36: Long neck, Description: Notes a fairly long neck., Quote: fairly long neck,
+Code 37: Elongate tail, Description: Describes a long, elongate tail., Quote: Long elongate tail,
+Code 38: Small size, Description: Suggests small body size., Quote: Maybe it's some sort of small basal ornithischian.
+Code 39: Basal ornithischian, Description: Suggests taxonomic placement as a basal ornithischian., Quote: Maybe it's some sort of small basal ornithischian.
+Code 40: Theropod, Description: Identifies the specimen as a theropod., Quote: That's clearly a theropod.
+Code 41: Three manual digits, Description: Notes three fingers per hand., Quote: 3 fingers per hand,
+Code 42: Reduced first pedal digit, Description: Notes reduction of the first digit on each foot., Quote: reduced 1st digit on each foot.
+Code 43: Moderately derived theropod, Description: Characterizes the theropod as moderately derived., Quote: a sort of a moderately derived theropod.
+Code 44: Allosaurus neighborhood, Description: Suggests affinity to the Allosaurus group/neighborhood., Quote: Maybe something in the allosaurus neighborhood.
+Code 45: Basal sauropodomorph, Description: Identifies the specimen as a basal sauropodomorph., Quote: a basal sauropodomorph.
+Code 46: Heavy body, Description: Notes a heavy body., Quote: Heavy body,
+Code 47: Long neck, Description: Notes a long neck., Quote: long neck,
+Code 48: Five manual digits (probable), Description: Suggests probably five digits per hand., Quote: probably 5 digits per hand,
+Code 49: Bipedal, Description: States bipedal locomotion., Quote: a biped, as many of them may have been,
+Code 50: Long heavy tail, Description: Describes a good, long, heavy tail., Quote: a good, long, heavy tail.
+Code 51: Lambeosaurus lambei, Description: Identifies the specimen as Lambeosaurus lambei., Quote: That is, Lambeosaurus lambei, from the look of things.
+Code 52: Hadrosaurid, Description: Identifies the specimen as a hadrosaurid., Quote: So that's a hadrosaurid dinosaur quadrupedal.
+Code 53: Quadrupedal, Description: Notes quadrupedal locomotion., Quote: So that's a hadrosaurid dinosaur quadrupedal.
+Code 54: Heavy body, Description: Notes a fairly heavy body., Quote: Again, a fairly heavy body
+Code 55: Herbivore, Description: States herbivorous diet., Quote: being a herbivore
+Code 56: Convex crest with posterior prong, Description: Describes a very convex crest with a posterior prong., Quote: characterized by its very convex crest with a posterior prong.
+Code 57: Prosauropod identification, Description: Identifies the dinosaur as a prosauropod., Quote: So this is a prosauropod,
+Code 58: Related to long-neck dinosaurs, Description: States prosauropods are related to long-neck dinosaurs., Quote: so this is related to the long neck dinosaurs.
+Code 59: Early in dinosaur lineage, Description: Describes the group as early in the dinosaur lineage., Quote: These are early in the dinosaur lineage,
+Code 60: Related to sauropods and theropods, Description: Links the group to both sauropods and theropods., Quote: and so they are related to both the long neck dinosaurs, the sauropods, and to the theropods,
+Code 61: Theropods are bipedal carnivores, Description: Defines theropods as bipedal carnivorous dinosaurs., Quote: so the bipedal carnivorous dinosaurs.
+Code 62: Root of Saurischians, Description: Positions the group as a root for Saurischians (lizard-hipped dinosaurs)., Quote: And so they're kind of a root for what are called the Saurischians, or the lizard-hipped dinosaurs.
+Code 63: Therizinosaur identification, Description: Identifies the dinosaur as a therizinosaur., Quote: This is a therizinosaur.
+Code 64: Therizinosaur is a theropod, Description: States therizinosaurs are theropods., Quote: They are a theropod,
+Code 65: Theropods are bipedal carnivores, Description: Defines theropods as bipedal carnivorous dinosaurs., Quote: so a bipedal carnivorous dinosaur,
+Code 66: Long front claws, Description: Notes long claws on the front feet., Quote: famous for their long claws on the front, the front feet there.
+Code 67: Prosauropod identification, Description: Identifies the dinosaur as another prosauropod., Quote: This is another prosauropod.
+Code 68: Early relative of sauropods and theropods, Description: Describes as an early relative of long-neck and meat-eating dinosaurs., Quote: So again, early relative of both long neck dinosaurs and the meat-eating dinosaurs,
+Code 69: Early in dinosaur lineage, Description: Positions the group early in the dinosaur lineage., Quote: so kind of early on in the dinosaur lineage.
+Code 70: Lambeosaurus identification, Description: Identifies the dinosaur as a lambeosaurus., Quote: This is a lambeosaurus,
+Code 71: Big duck-bill dinosaur, Description: States lambeosaurus is one of the big duck-bill dinosaurs., Quote: which is one of the big duck bill dinosaurs,
+Code 72: Late Cretaceous, Description: Places the dinosaur in the Late Cretaceous., Quote: late Cretaceous dinosaurs.
+Code 73: Crested hadrosaur, Description: Describes the dinosaur as a crested hadrosaur., Quote: This is a crested hadrosaur,
+Code 74: Flat-headed hadrosaur type, Description: Mentions another hadrosaur type with a flat head., Quote: so there's also another type of hadrosaur that had a flat head as well.
+Code 75: Largest duck-bill dinosaurs, Description: Claims they are among the largest duck-bill dinosaurs., Quote: So these are some of the largest duckbill dinosaurs
+Code 76: Largest bird-hip dinosaurs, Description: Clarifies as some of the largest bird-hip dinosaurs (ornithischians)., Quote: sorry largest bird-hip dinosaurs or ornithischians.
+Code 77: "Code 1: Bipedal stance, Description: Participant notes the animal is two-legged., Quote: I see a two-legged..."
+Code 78: "Code 2: Three pedal toes, Description: Participant observes three toes on the foot., Quote: Three toes,"
+Code 79: "Code 3: Two manual claws (uncertain), Description: Participant suggests there may be two claws on the hands with uncertainty., Quote: two claws maybe on the hands? Hard to tell."
+Code 80: "Code 4: Long neck, Description: Participant describes a long neck., Quote: Looks like it's got a long neck,"
+Code 81: "Code 5: Long tail, Description: Participant describes a long tail., Quote: long tail,"
+Code 82: "Code 6: Short face, Description: Participant notes the face is short., Quote: short face,"
+Code 83: "Code 7: Short, stunted teeth, Description: Participant characterizes the teeth as short and stunted., Quote: short, sort of stunted, teeth,"
+Code 84: "Code 8: Mottled brown-green coloration, Description: Participant describes body coloration as mottled brown-green with a yellowish underbelly., Quote: a sort of mottled brown-green colour with a yellowish underbelly."
+Code 85: "Code 9: Theropod identification, Description: Participant identifies the animal as a theropod., Quote: It's a theropod, I think, of some kind..."
+Code 86: "Code 10: Derived theropod (probable), Description: Participant suggests it is probably a derived theropod., Quote: probably a derived one."
+Code 87: "Code 11: Name recall difficulty, Description: Participant indicates difficulty remembering a specific dinosaur name., Quote: There's an animal I'm thinking of whose name I can't remember."
+Code 88: "Code 12: Chilesaurus identification attempt, Description: Participant proposes Chilesaurus as the identification., Quote: Is it chilesaurus or something like that?"
+Code 89: "Code 13: Proliferation of dinosaur names, Description: Participant remarks that there are many dinosaur names now., Quote: There are so many dinosaurs now."
+Code 90: "Code 14: Stopped tracking dinosaur names, Description: Participant states they stopped keeping track of dinosaur names as a teenager., Quote: I stopped keeping track of dinosaur names as a teenager."
+Code 91: "Code 15: Too many names to remember, Description: Participant notes difficulty remembering due to the number of dinosaur names., Quote: There are too many for me to remember now."
+Code 92: "Code 16: Chilesaurus identification affirmation, Description: Participant affirms the identification of Chilesaurus., Quote: Chilesaurus, there you go."
+Code 93: "Code 17: Herrerasaurus identification, Description: Participant identifies the dinosaur as Herrerasaurus., Quote: All right. This is herrerasaurus I think."
+Code 94: "Code 18: Low, boxy skull, Description: Participant describes the skull as low and boxy., Quote: Sort of a low, boxy skull."
+Code 95: "Code 19: Ziphodont teeth (pointy, recurved), Description: Participant describes teeth as ziphodont, pointy and recurved., Quote: You know, what we call ziphodont teeth, so they're pointy and recurved."
+Code 96: "Code 20: Three manual claws, Description: Participant notes three claws on the arms., Quote: Three claws on the arms, which are modestly long."
+Code 97: "Code 21: Forelimbs modest length, Description: Participant describes the arms as modestly long., Quote: Three claws on the arms, which are modestly long."
+Code 98: "Code 22: Bipedal stance, Description: Participant describes Herrerasaurus as bipedal., Quote: And bipedal,"
+Code 99: "Code 23: Three functional pedal digits, Description: Participant specifies three functional toes., Quote: with three functional toes"
+Code 100: "Code 24: Non-weight-bearing toe, Description: Participant notes an additional toe that does not touch the ground., Quote: and a toe on each foot that doesn't touch the ground."
+Code 101: "Code 25: Modestly long neck, Description: Participant describes a modestly long neck., Quote: And yeah, sort of modestly long neck"
+Code 102: "Code 26: Long tail, Description: Participant notes a long tail., Quote: and long tail."
+Code 103: "Code 27: Prosauropod identification (Plateosaurus comparison), Description: Participant identifies the dinosaur as a prosauropod, comparing it to Plateosaurus., Quote: This is a prosauropod of some kind, like plateosaurus."
+Code 104: "Code 28: Bipedal depiction, Description: Participant states the animal is shown as bipedal., Quote: It's shown bipedal."
+Code 105: "Code 29: Shorter forelimbs, Description: Participant notes shorter front legs., Quote: Sort of shorter front legs,"
+Code 106: "Code 30: Hindlimb locomotion depiction, Description: Participant comments it's often shown walking on hind legs., Quote: which is why they're often shown walking about on their hind legs,"
+Code 107: "Code 31: Facultative quadruped capability, Description: Participant suggests the animal could probably walk on all fours if needed., Quote: although we think they could probably walk on all fours if they had to."
+Code 108: "Code 32: Long neck, Description: Participant describes quite a long neck., Quote: And quite a long neck at that."
+Code 109: "Code 33: Short, boxy skull, Description: Participant describes a short, boxy skull., Quote: Short boxy skull."
+Code 110: "Code 34: Teeth not visible, Description: Participant notes the teeth cannot be seen and thus withholds description., Quote: And I can't see their teeth, so I won't tell you about them, but..."
+Code 111: "Code 35: Iguana-like, leaf-shaped teeth, Description: Participant describes teeth as iguana-like and leaf-shaped., Quote: Well, their teeth are very, almost iguana-like, so they're sort of leaf-shaped teeth."
+Code 112: "Code 36: Omnivorous diet (probable), Description: Participant suggests an omnivorous diet., Quote: They're probably omnivorous animals."
+Code 113: "Code 37: Mixed plant and meat diet (occasional), Description: Participant states a mix of plant and meat eating occasionally., Quote: Mix of, probably plant and meat eaters occasionally."
+Code 114: "Code 38: Large body size, Description: Participant describes them as big animals., Quote: Big animals at that."
+Code 115: "Code 39: Personal affinity for Lambeosaurus, Description: Participant expresses personal fondness for Lambeosaurus., Quote: a dinosaur near and dear to my heart."
+Code 116: "Code 40: Lambeosaurus identification, Description: Participant identifies the dinosaur as Lambeosaurus., Quote: This is lambeosaurus."
+Code 117: "Code 41: Herbivory (large-bodied), Description: Participant describes Lambeosaurus as big plant-eating dinosaurs., Quote: these are big plant eating dinosaurs"
+Code 118: "Code 42: Tooth batteries, Description: Participant notes the presence of tooth batteries., Quote: with big tooth batteries,"
+Code 119: "Code 43: Tooth batteries not visible, Description: Participant remarks the tooth batteries are not visible., Quote: which we can't see, of course,"
+Code 120: "Code 44: Hatchet-shaped crest, Description: Participant describes the crest shape as hatchet-like., Quote: famously known for the sort of hatchet shaped crest on the head."
+Code 121: "Code 45: Quadrupedal depiction, Description: Participant states it is shown walking on all fours., Quote: it's shown walking here on all fours,"
+Code 122: "Code 46: Occasional bipedal rearing, Description: Participant suggests the animal could rear up bipedally occasionally., Quote: although we think they could rear up bipedally occasionally."

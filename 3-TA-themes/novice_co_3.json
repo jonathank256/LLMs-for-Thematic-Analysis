@@ -1,0 +1,153 @@
+[
+  {
+    "Theme Name": "Posture and Limbs",
+    "Theme Description": "Focus on how the animals stand and move, and the proportions of their arms and legs. Captures observations about bipedal versus quadrupedal stance and detailed limb/foot morphology.",
+    "Theme-Only Code Numbers": [],
+    "Subthemes": [
+      {
+        "Subtheme Name": "Stance",
+        "Subtheme Description": "Identification of whether the dinosaur stands on two legs or four, including repeated confirmations of stance across examples.",
+        "Subtheme Code Numbers": [2, 10, 37, 38, 53, 56, 80, 88, 96, 103, 110, 197]
+      },
+      {
+        "Subtheme Name": "Limb Proportions",
+        "Subtheme Description": "Comparisons of arm and leg lengths, thickness, and overall proportions relative to body plan and balance.",
+        "Subtheme Code Numbers": [7, 11, 13, 24, 25, 26, 50, 62, 89, 97, 104, 122, 190, 167, 176]
+      },
+      {
+        "Subtheme Name": "Feet and Claws",
+        "Subtheme Description": "Detailed attention to pedal and manual features including claws, hooks, toes, hooves, and overall foot shape.",
+        "Subtheme Code Numbers": [8, 9, 12, 21, 27, 28, 73, 74, 75, 171, 172, 181, 182, 183, 184, 189, 203, 204, 206, 205]
+      }
+    ]
+  },
+  {
+    "Theme Name": "Head and Dentition",
+    "Theme Description": "Descriptions of head size and features, mouth shape and gape, and tooth form, often linked to potential feeding strategies.",
+    "Theme-Only Code Numbers": [],
+    "Subthemes": [
+      {
+        "Subtheme Name": "Mouth and Gape",
+        "Subtheme Description": "Characterizations of mouth length, shape, beak-likeness, and how wide the mouth opens.",
+        "Subtheme Code Numbers": [5, 15, 16, 30, 46, 49, 51, 52, 92, 99, 107, 126, 130, 201, 173]
+      },
+      {
+        "Subtheme Name": "Teeth and Biting",
+        "Subtheme Description": "Observations of tooth size and implied biting/grinding functions, sometimes linked to weapons.",
+        "Subtheme Code Numbers": [6, 17, 71, 72, 174, 99]
+      },
+      {
+        "Subtheme Name": "Facial Features",
+        "Subtheme Description": "Attention to eyes, nostrils, jaws, and overall head size/visibility of structures.",
+        "Subtheme Code Numbers": [18, 19, 20, 31, 45, 47, 48, 91, 100, 106, 111, 166, 177]
+      }
+    ]
+  },
+  {
+    "Theme Name": "Axial Features",
+    "Theme Description": "Focus on the neck and tail as defining axial structures, including their length, curvature, thickness, and posture.",
+    "Theme-Only Code Numbers": [],
+    "Subthemes": [
+      {
+        "Subtheme Name": "Neck",
+        "Subtheme Description": "Notes on neck length, slenderness, and curvature, often tied to foraging reach.",
+        "Subtheme Code Numbers": [4, 29, 44, 90, 98, 105, 118, 165, 187, 188]
+      },
+      {
+        "Subtheme Name": "Tail",
+        "Subtheme Description": "Descriptions of tail length, thickness, curvature/arcing, straightness, and proportion to body.",
+        "Subtheme Code Numbers": [3, 14, 33, 34, 35, 36, 41, 42, 93, 101, 108, 116, 119, 148, 163, 175, 191, 199]
+      }
+    ]
+  },
+  {
+    "Theme Name": "Surface and Coloration",
+    "Theme Description": "Attention to colors, patterns, scales, and spiky dermal features, alongside uncertainty about color accuracy.",
+    "Theme-Only Code Numbers": [],
+    "Subthemes": [
+      {
+        "Subtheme Name": "Colors and Patterns",
+        "Subtheme Description": "Green/brown palettes, striping, spotting, contrasting ventral outlines, and pattern distribution across the body.",
+        "Subtheme Code Numbers": [1, 22, 23, 32, 70, 102, 112, 113, 117, 132, 145, 168, 170, 178, 179, 180, 192, 193, 194, 195, 198, 202]
+      },
+      {
+        "Subtheme Name": "Spikes and Texture",
+        "Subtheme Description": "Reports of dorsal spikes, spiky/rough textures, scales, and wrinkles along the body and tail.",
+        "Subtheme Code Numbers": [43, 114, 169, 200, 207, 196, 82, 157, 158]
+      }
+    ]
+  },
+  {
+    "Theme Name": "Size and Build",
+    "Theme Description": "General size estimations and body-build characterizations, from ‘lean’ to ‘fat,’ including elongated or wide body shapes.",
+    "Theme-Only Code Numbers": [],
+    "Subthemes": [
+      {
+        "Subtheme Name": "Size Estimates",
+        "Subtheme Description": "Judgments of overall size ranging from small/medium to very large and shorter in length.",
+        "Subtheme Code Numbers": [55, 59, 60, 66, 39, 115]
+      },
+      {
+        "Subtheme Name": "Body Shape",
+        "Subtheme Description": "Descriptions of body slenderness/thickness, width, and overall elongation or proportion cues.",
+        "Subtheme Code Numbers": [109, 120, 185, 186, 40, 116, 24, 13]
+      }
+    ]
+  },
+  {
+    "Theme Name": "Reasoning and Function",
+    "Theme Description": "How the participant infers diet and function from morphology and behavior, including speculative functional roles for anatomical features.",
+    "Theme-Only Code Numbers": [],
+    "Subthemes": [
+      {
+        "Subtheme Name": "Diet Classification",
+        "Subtheme Description": "Statements assigning herbivory or carnivory, sometimes linked to perceived speed or general impression.",
+        "Subtheme Code Numbers": [54, 56, 58, 63, 69, 138, 142, 147]
+      },
+      {
+        "Subtheme Name": "Feature-Based Inference",
+        "Subtheme Description": "Use of mouth/teeth, crests, neck length, hands, and spikes to infer feeding strategies or signaling/thermoregulation.",
+        "Subtheme Code Numbers": [67, 68, 71, 72, 78, 79, 86, 139, 77]
+      }
+    ]
+  },
+  {
+    "Theme Name": "Observation and Uncertainty",
+    "Theme Description": "The participant’s analytic approach and noted ambiguities, including what features are prioritized and recognized knowledge limits.",
+    "Theme-Only Code Numbers": [],
+    "Subthemes": [
+      {
+        "Subtheme Name": "Attention Priorities",
+        "Subtheme Description": "Declared focus on limbs or head and deprioritization of coloration, plus noticing unusual/obscure patterns.",
+        "Subtheme Code Numbers": [87, 94, 95, 102, 112, 113, 82]
+      },
+      {
+        "Subtheme Name": "Uncertainty and Confusion",
+        "Subtheme Description": "Explicit statements of confusion, doubt, or evolutionary/relatedness uncertainty and novelty.",
+        "Subtheme Code Numbers": [57, 70, 93, 137, 140, 150, 151, 83, 84, 85, 76]
+      }
+    ]
+  },
+  {
+    "Theme Name": "Comparisons and Familiarity",
+    "Theme Description": "Links to prior knowledge and media, analogies to modern animals, and affective reactions of cuteness or scariness.",
+    "Theme-Only Code Numbers": [],
+    "Subthemes": [
+      {
+        "Subtheme Name": "Media and Familiarity",
+        "Subtheme Description": "References to toys, movies, personal exposure (e.g., fossils), and perceived familiarity/unfamiliarity.",
+        "Subtheme Code Numbers": [61, 123, 124, 125, 129, 133, 134, 145, 146, 64]
+      },
+      {
+        "Subtheme Name": "Animal Analogies",
+        "Subtheme Description": "Comparisons to cows, alligators, raptors, deer, birds, horses, and feature-based relatedness cues.",
+        "Subtheme Code Numbers": [65, 131, 135, 136, 152, 153, 154, 155, 156, 205, 206, 81, 60, 74, 73, 75]
+      },
+      {
+        "Subtheme Name": "Affective Reactions",
+        "Subtheme Description": "Judgments of cuteness or scariness in the animals’ appearances.",
+        "Subtheme Code Numbers": [121, 127, 128, 159, 162, 149]
+      }
+    ]
+  }
+]

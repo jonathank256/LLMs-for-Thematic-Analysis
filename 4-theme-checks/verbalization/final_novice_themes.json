@@ -1,0 +1,71 @@
+[
+    {
+        "Theme Name": "Bipedal Dinosaurs",
+        "Theme Description": "This theme encompasses descriptions and characteristics associated with bipedal dinosaurs. It highlights various features such as leg structure, physical traits, and presumed dietary habits.",
+        "Theme-Only Code Numbers": [62, 63, 64, 65, 66, 67, 68, 78, 79, 80],
+        "Subthemes": [
+            {
+                "Subtheme Name": "Physical Characteristics",
+                "Subtheme Description": "Focuses on the specific physical traits described for bipedal dinosaurs, including their limbs and mouth features.",
+                "Subtheme Code Numbers": [62, 63, 64, 65, 66, 67, 68]
+            },
+            {
+                "Subtheme Name": "Dietary Speculation",
+                "Subtheme Description": "Explores the participant's beliefs regarding the diet of bipedal dinosaurs based on their characteristics.",
+                "Subtheme Code Numbers": [78, 79, 80]
+            }
+        ]
+    },
+    {
+        "Theme Name": "Quadrupedal Dinosaurs",
+        "Theme Description": "This theme focuses on quadrupedal dinosaurs and their distinct features, including descriptions of body shape and physical attributes.",
+        "Theme-Only Code Numbers": [70, 71, 72, 73, 74, 75, 76, 77, 106],
+        "Subthemes": [
+            {
+                "Subtheme Name": "Structural Features",
+                "Subtheme Description": "Examines the bodily structure and physical attributes, such as leg configuration and tail characteristics.",
+                "Subtheme Code Numbers": [70, 71, 72, 73, 74, 75, 76, 77]
+            }
+        ]
+    },
+    {
+        "Theme Name": "Appearance and Coloration",
+        "Theme Description": "This theme encapsulates the various descriptions of appearance, including coloration patterns, features, and general looks of the dinosaurs.",
+        "Theme-Only Code Numbers": [68, 102, 128, 129, 130, 133, 134, 137, 141, 142, 146],
+        "Subthemes": [
+            {
+                "Subtheme Name": "Color Patterns",
+                "Subtheme Description": "Focuses on the specific color patterns noted by the participant, highlighting their observations about the visual appearance.",
+                "Subtheme Code Numbers": [102, 128, 129, 133, 137, 141]
+            },
+            {
+                "Subtheme Name": "Physical Features",
+                "Subtheme Description": "Explores the unique physical characteristics such as spikes, claws, and other notable traits.",
+                "Subtheme Code Numbers": [130, 134, 146]
+            }
+        ]
+    },
+    {
+        "Theme Name": "Diet and Behavior",
+        "Theme Description": "This theme involves the speculations regarding the dietary habits and general behavior of the dinosaurs based on physical traits.",
+        "Theme-Only Code Numbers": [79, 80, 88, 90, 95],
+        "Subthemes": [
+            {
+                "Subtheme Name": "Diet Identification",
+                "Subtheme Description": "Focuses on the participant's deductions regarding the eating habits of different dinosaurs based on their physical attributes.",
+                "Subtheme Code Numbers": [79, 80, 88, 90]
+            }
+        ]
+    },
+    {
+        "Theme Name": "Confusion and Familiarity",
+        "Theme Description": "This theme captures the participant's feelings of confusion regarding certain dinosaur identifications and expressions of familiarity with other dinosaurs.",
+        "Theme-Only Code Numbers": [82, 113, 120],
+        "Subthemes": []
+    },
+    {
+        "Theme Name": "Miscellaneous",
+        "Theme Description": "This theme contains codes that do not clearly align with other themes.",
+        "Theme-Only Code Numbers": [81, 83, 85, 84, 87, 94, 96, 117, 119]
+    }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "Code 1": "Bipedal",
+    "Description": "Participant identifies a dinosaur as bipedal.",
+    "Quote": "Okay. So this one… is bipedal, and I'm guessing it's a plant eater, around, like, small to medium size."
+  },
+  {
+    "Code 2": "Herbivore guess",
+    "Description": "Participant guesses the dinosaur is a plant eater.",
+    "Quote": "Okay. So this one… is bipedal, and I'm guessing it's a plant eater, around, like, small to medium size."
+  },
+  {
+    "Code 3": "Small–medium size estimate",
+    "Description": "Participant estimates the dinosaur is small to medium in size.",
+    "Quote": "Okay. So this one… is bipedal, and I'm guessing it's a plant eater, around, like, small to medium size."
+  },
+  {
+    "Code 4": "Carnivore identification",
+    "Description": "Participant says a dinosaur looks like a carnivore.",
+    "Quote": "Hmm…. This one looks like a carnivore, um, also bipedal, small to medium size."
+  },
+  {
+    "Code 5": "Confusion between two",
+    "Description": "Participant reports confusing two dinosaurs during the experiment.",
+    "Quote": "I probably got these two confused during the actual experiment."
+  },
+  {
+    "Code 6": "Herbivore certainty",
+    "Description": "Participant states a dinosaur is definitely a herbivore.",
+    "Quote": "Um, definitely a herbivore."
+  },
+  {
+    "Code 7": "Really big size",
+    "Description": "Participant describes a dinosaur as really big.",
+    "Quote": "Um, really big."
+  },
+  {
+    "Code 8": "Resembles brachiosaurs",
+    "Description": "Participant says a dinosaur looks like brachiosaurs and notes very long, super big ones.",
+    "Quote": "I don't know, like, it looks like the… the brachiosaurs, about the ones with, like, the really long, like, the super big ones."
+  },
+  {
+    "Code 9": "Movie reference",
+    "Description": "Participant references seeing the dinosaur type in dinosaur movies.",
+    "Quote": "That you always see in, like, those dinosaur movies."
+  },
+  {
+    "Code 10": "Small legs balance concern",
+    "Description": "Participant comments that small legs might cause tipping and balance issues.",
+    "Quote": "The legs are so small, because I would assume they would, like, tip over and, like, not have balance."
+  },
+  {
+    "Code 11": "Eats plants assertion",
+    "Description": "Participant asserts that a dinosaur eats plants.",
+    "Quote": "This one, I know eats plants."
+  },
+  {
+    "Code 12": "Fossil at UBC",
+    "Description": "Participant mentions a fossil of the dinosaur at UBC.",
+    "Quote": "Um, I think we have, like, a fossil of it at UBC."
+  },
+  {
+    "Code 13": "Funky cow comparison",
+    "Description": "Participant compares a dinosaur’s appearance to a funky cow.",
+    "Quote": "Kind of looks like a funky cow."
+  },
+  {
+    "Code 14": "Pretty big recollection",
+    "Description": "Participant recalls the dinosaur being pretty big.",
+    "Quote": "I think it's pretty big, too, I remember."
+  },
+  {
+    "Code 15": "Herbivory inferred from mouth and hood",
+    "Description": "Participant uses mouth shape and hood to infer plant eating.",
+    "Quote": "I guess, like, I've… I don't know, like, just, like…. From the mouth shape and, like, the hood."
+  },
+  {
+    "Code 16": "Crest function: mating or heat",
+    "Description": "Participant suggests the top structure might be for mating or heat.",
+    "Quote": "And I think the thing on the top is an a mating thing, not so much, uh, whatever, or like a heat… yeah, I don't know."
+  },
+  {
+    "Code 17": "Slow runner appearance",
+    "Description": "Participant says the dinosaur doesn't look fast.",
+    "Quote": "It doesn't look like you can run that fast, so I'm just gonna guess it uses plants."
+  },
+  {
+    "Code 18": "Color accuracy uncertainty",
+    "Description": "Participant expresses uncertainty about the accuracy of the colors.",
+    "Quote": "Okay, well, this one… I don't know how accurate the colors are."
+  },
+  {
+    "Code 19": "Blunt mouth for grinding",
+    "Description": "Participant links a non-pointy mouth to grinding grass.",
+    "Quote": "But, like, the mouth part for this one doesn't seem that pointy, and like…. So, like, it's probably used for, like, grinding grass,"
+  },
+  {
+    "Code 20": "Sharp teeth and talons as weapons",
+    "Description": "Participant identifies sharp teeth and long talons as body weapons.",
+    "Quote": "but then, like, this one has, like, really sharp teeth, and, like. Really, um, long…. Talons, or whatever, so probably, like, weapons on the body."
+  },
+  {
+    "Code 21": "Foot hook observed",
+    "Description": "Participant notes a hook on the back of the foot in one but not another.",
+    "Quote": "This one has the little…. Hook on the back of the foot, but this one doesn't."
+  },
+  {
+    "Code 22": "Hook indicates closeness",
+    "Description": "Participant uses presence of a hook to infer closeness between two dinosaurs.",
+    "Quote": "This one also has a hook. So I'm guessing it would be closer to this one than this one."
+  },
+  {
+    "Code 23": "Hook analogy to dogs",
+    "Description": "Participant compares the hook feature to something seen on dogs and expresses discomfort.",
+    "Quote": "Um…. Yeah, no, some of them happen, and it's always, like, hanging on the dogs, and it, like, makes me, like, really uncomfortable."
+  },
+  {
+    "Code 24": "Novel morphology",
+    "Description": "Participant states they have never seen something like this before.",
+    "Quote": "I've never seen something like this before."
+  },
+  {
+    "Code 25": "Hands function questioned",
+    "Description": "Participant questions the function of the dinosaur's hands.",
+    "Quote": "Like, what are those hands used for?"
+  },
+  {
+    "Code 26": "Giraffe neck comparison",
+    "Description": "Participant compares a long neck to giraffes using it to eat leaves.",
+    "Quote": "Yeah, because, like, I know that, like, like, giraffes, you know, they have, like, really long necks, to, like, eat the leaves that, like, so they don't have to fight for it,"
+  },
+  {
+    "Code 27": "Hands to grab tree speculation",
+    "Description": "Participant speculates hands might be used to grab onto a tree.",
+    "Quote": "What are the hands for? Maybe we have to, like, grab onto the tree, I don't know."
+  },
+  {
+    "Code 28": "Quadrupedal",
+    "Description": "Participant identifies a dinosaur as being on all fours.",
+    "Quote": "This one is, like, kind of the one on all fours."
+  },
+  {
+    "Code 29": "Comparison to Stegosaurus",
+    "Description": "Participant compares the dinosaur to Stegosaurus.",
+    "Quote": "Other than, like, the stegosaurus?"
+  },
+  {
+    "Code 30": "Different skin noted",
+    "Description": "Participant remarks that the skin looks very different.",
+    "Quote": "But, like, I don't know, like, the skin is so different."
+  },
+  {
+    "Code 31": "Relatedness uncertainty",
+    "Description": "Participant expresses uncertainty about how related the dinosaurs are.",
+    "Quote": "I'm like, I don't know how related they are, other than the fact that they're…."
+  },
+  {
+    "Code 32": "Evolution 4-leg to 2-leg uncertainty",
+    "Description": "Participant is unsure about evolutionary change between four and two legs.",
+    "Quote": "I don't know what evolves faster, like, if you go from."
+  },
+  {
+    "Code 33": "Evolution to spiky hide uncertainty",
+    "Description": "Participant questions evolutionary change to a spiky hide.",
+    "Quote": "To go from like...4 leg to 2 leg, or like…. This to, like, the spiky hide thing."
+  },
+  {
+    "Code 34": "Spikes function debated",
+    "Description": "Participant reports spikes on the back being debated as mating or cooling structures.",
+    "Quote": "I think they were… from, like, my Grade 2 knowledge, they were always, like, debated. It was either people thought it was mating, but then they also thought it was, like, to, like, cool them down."
+  }
+]

@@ -1,0 +1,237 @@
+[
+  {
+    "Theme Name": "Posture and Limbs",
+    "Theme Description": "Recurring focus on overall stance and limb proportions, contrasting bipedal and quadrupedal body plans and detailing forelimb length and configuration.",
+    "Theme-Only Code Numbers": [],
+    "Subthemes": [
+      {
+        "Subtheme Name": "Bipedal Traits",
+        "Subtheme Description": "Identifications of two-legged stance and associated cues.",
+        "Subtheme Code Numbers": [2, 10, 53, 56, 88, 96, 103, 167, 176]
+      },
+      {
+        "Subtheme Name": "Quadrupedal Traits",
+        "Subtheme Description": "Identifications of four-legged stance and associated cues.",
+        "Subtheme Code Numbers": [37, 38, 80, 110, 197]
+      },
+      {
+        "Subtheme Name": "Forelimb Proportions",
+        "Subtheme Description": "Observations of arm length and robustness relative to body plan.",
+        "Subtheme Code Numbers": [7, 11, 25, 26, 50, 89, 97, 104, 122, 190, 136]
+      }
+    ]
+  },
+  {
+    "Theme Name": "Head Features",
+    "Theme Description": "Descriptions centered on head region, including mouth form, gape, teeth, jaw definition, and sensory features like eyes and nostrils.",
+    "Theme-Only Code Numbers": [],
+    "Subthemes": [
+      {
+        "Subtheme Name": "Mouth Shape",
+        "Subtheme Description": "Shape and capacity of the mouth and beak-like qualities.",
+        "Subtheme Code Numbers": [5, 15, 16, 30, 46, 49, 51, 52, 92, 99, 107, 126, 130, 201]
+      },
+      {
+        "Subtheme Name": "Teeth and Jaw",
+        "Subtheme Description": "Tooth size and visibility, and jaw definition compared across specimens.",
+        "Subtheme Code Numbers": [6, 17, 47, 48, 71, 72, 174]
+      },
+      {
+        "Subtheme Name": "Sensory Features",
+        "Subtheme Description": "Attention to nostrils and eyes, and overall head size cues.",
+        "Subtheme Code Numbers": [18, 19, 20, 31, 91, 100, 111, 166, 177]
+      }
+    ]
+  },
+  {
+    "Theme Name": "Neck and Tail",
+    "Theme Description": "Systematic noting of neck length/posture and tail length/curvature as key body plan markers.",
+    "Theme-Only Code Numbers": [],
+    "Subthemes": [
+      {
+        "Subtheme Name": "Tail Form",
+        "Subtheme Description": "Length, thickness, curvature, and consistency of the tail.",
+        "Subtheme Code Numbers": [3, 14, 33, 34, 35, 36, 41, 42, 93, 101, 108, 116, 119, 148, 163, 175, 191, 199]
+      },
+      {
+        "Subtheme Name": "Neck Form",
+        "Subtheme Description": "Length and posture of the neck, including arched profiles.",
+        "Subtheme Code Numbers": [4, 29, 44, 90, 98, 105, 118, 165, 187, 188]
+      }
+    ]
+  },
+  {
+    "Theme Name": "Color Patterning",
+    "Theme Description": "Color observations, confidence in color accuracy, and description of stripes, spots, scales, and textural look.",
+    "Theme-Only Code Numbers": [],
+    "Subthemes": [
+      {
+        "Subtheme Name": "Colors and Hue",
+        "Subtheme Description": "Base colors, contrasts, and uncertainty about color accuracy.",
+        "Subtheme Code Numbers": [1, 22, 70, 95, 102, 113, 117, 132, 145, 146, 164, 168, 170, 178, 179, 192, 193, 194, 198, 202]
+      },
+      {
+        "Subtheme Name": "Patterns and Texture",
+        "Subtheme Description": "Stripes, spots, scale mentions, and rough/wrinkled or spiky-looking textures.",
+        "Subtheme Code Numbers": [23, 32, 112, 169, 180, 195, 196, 82, 157, 158]
+      }
+    ]
+  },
+  {
+    "Theme Name": "Size and Build",
+    "Theme Description": "Judgments of absolute and relative size and overall body robustness versus leanness.",
+    "Theme-Only Code Numbers": [],
+    "Subthemes": [
+      {
+        "Subtheme Name": "Size Estimates",
+        "Subtheme Description": "Small–medium to very large appraisals and length comparisons.",
+        "Subtheme Code Numbers": [55, 59, 60, 66, 115, 39, 143]
+      },
+      {
+        "Subtheme Name": "Body Build",
+        "Subtheme Description": "Perceptions of being lean, thick, fat, wider, or elongated, including local limb robustness.",
+        "Subtheme Code Numbers": [120, 24, 13, 40, 185, 186, 141, 109, 50]
+      }
+    ]
+  },
+  {
+    "Theme Name": "Diet and Function",
+    "Theme Description": "Inferences about herbivory versus carnivory and hypotheses about functional anatomy and performance.",
+    "Theme-Only Code Numbers": [],
+    "Subthemes": [
+      {
+        "Subtheme Name": "Herbivory Cues",
+        "Subtheme Description": "Attributions of plant eating based on mouth shape, neck, and overall appearance.",
+        "Subtheme Code Numbers": [54, 58, 63, 69, 71, 138, 139, 142, 147, 67, 78]
+      },
+      {
+        "Subtheme Name": "Carnivory Cues",
+        "Subtheme Description": "Attributions of meat eating and use of sharp teeth and talons as weapons.",
+        "Subtheme Code Numbers": [56, 72, 171, 174, 173]
+      },
+      {
+        "Subtheme Name": "Functional Speculation",
+        "Subtheme Description": "Hypotheses about balance, hand use, crest or spike functions, and foraging mechanics.",
+        "Subtheme Code Numbers": [62, 67, 68, 77, 78, 79, 86]
+      }
+    ]
+  },
+  {
+    "Theme Name": "Comparisons and Media",
+    "Theme Description": "Use of animal analogies and references to toys, movies, and personal exposures to make sense of dinosaurs.",
+    "Theme-Only Code Numbers": [],
+    "Subthemes": [
+      {
+        "Subtheme Name": "Animal Analogies",
+        "Subtheme Description": "Comparisons to familiar animals and known dinosaurs to frame interpretation.",
+        "Subtheme Code Numbers": [60, 65, 78, 81, 131, 152, 153, 154, 155, 156, 205, 160]
+      },
+      {
+        "Subtheme Name": "Media Familiarity",
+        "Subtheme Description": "Influence of movies, toys, and personal sightings on perceived familiarity.",
+        "Subtheme Code Numbers": [61, 123, 124, 125, 145, 146, 129, 133, 134, 64]
+      }
+    ]
+  },
+  {
+    "Theme Name": "Observation Strategy",
+    "Theme Description": "A systematic approach to noticing body-plan diagnostics first (limbs, head, tail), with coloration treated as secondary.",
+    "Theme-Only Code Numbers": [],
+    "Subthemes": [
+      {
+        "Subtheme Name": "Limb-Centric",
+        "Subtheme Description": "Initial attention to leg count, stance, and forelimb reduction.",
+        "Subtheme Code Numbers": [87, 88, 96, 103, 110, 97, 104, 89, 98, 122]
+      },
+      {
+        "Subtheme Name": "Head Focus",
+        "Subtheme Description": "Rapid shift to head size and mouth form as distinguishing cues.",
+        "Subtheme Code Numbers": [94, 90, 91, 92, 99, 100, 105, 106, 107, 111]
+      },
+      {
+        "Subtheme Name": "Tail/Shape Focus",
+        "Subtheme Description": "Attention to tail length/consistency and overall elongation.",
+        "Subtheme Code Numbers": [93, 101, 108, 109, 116]
+      },
+      {
+        "Subtheme Name": "Color Deprioritized",
+        "Subtheme Description": "Color noted but considered last and with uncertainty.",
+        "Subtheme Code Numbers": [95, 102, 112, 113, 70]
+      }
+    ]
+  },
+  {
+    "Theme Name": "Uncertainty Themes",
+    "Theme Description": "Expressed confusion, unfamiliarity, and open questions about identification, relatedness, and evolutionary change.",
+    "Theme-Only Code Numbers": [],
+    "Subthemes": [
+      {
+        "Subtheme Name": "ID Uncertainty",
+        "Subtheme Description": "Noting confusion between specimens and uncertainty about correctness and color.",
+        "Subtheme Code Numbers": [57, 70, 137, 140, 150, 151, 193, 76, 133, 134]
+      },
+      {
+        "Subtheme Name": "Evolution/Relatedness",
+        "Subtheme Description": "Questioning relationships and pathways of evolutionary change and trait functions.",
+        "Subtheme Code Numbers": [83, 84, 85, 86, 68, 74, 144]
+      }
+    ]
+  },
+  {
+    "Theme Name": "Display Structures",
+    "Theme Description": "Attention to spikes, plates, and cranial ornaments, including speculation about their functions.",
+    "Theme-Only Code Numbers": [],
+    "Subthemes": [
+      {
+        "Subtheme Name": "Spikes/Plates",
+        "Subtheme Description": "Back spikes/rows and plate-like, spiky-looking features.",
+        "Subtheme Code Numbers": [43, 114, 200, 207, 196, 86, 81, 157]
+      },
+      {
+        "Subtheme Name": "Crests/Facial",
+        "Subtheme Description": "Nasal/cranial ornaments and fan-like mouth structures considered as displays.",
+        "Subtheme Code Numbers": [45, 68, 201, 67, 112]
+      }
+    ]
+  },
+  {
+    "Theme Name": "Feet and Claws",
+    "Theme Description": "Detailed focus on distal appendages, including claws, toes, hoof-like structures, and special hooks/spurs.",
+    "Theme-Only Code Numbers": [],
+    "Subthemes": [
+      {
+        "Subtheme Name": "Claws/Hooves",
+        "Subtheme Description": "Recognition and characterization of claws, toes, nail thickness, and hoof-like traits.",
+        "Subtheme Code Numbers": [8, 9, 12, 21, 27, 171, 172, 181, 182, 183, 203, 204, 205, 206]
+      },
+      {
+        "Subtheme Name": "Hook/Spur",
+        "Subtheme Description": "Identification of a posterior foot hook/spur and its perceived significance.",
+        "Subtheme Code Numbers": [73, 74, 75, 184, 189]
+      }
+    ]
+  },
+  {
+    "Theme Name": "Affective Responses",
+    "Theme Description": "Emotional reactions to appearance, including judgments of cuteness, scariness, and perceived novelty.",
+    "Theme-Only Code Numbers": [],
+    "Subthemes": [
+      {
+        "Subtheme Name": "Cute vs Scary",
+        "Subtheme Description": "Valence judgments ranging from cute to scary.",
+        "Subtheme Code Numbers": [121, 127, 128, 149, 159, 162]
+      },
+      {
+        "Subtheme Name": "Novelty/Resemblance",
+        "Subtheme Description": "Perceived familiarity, resemblance to known forms, and uncertainty about identity.",
+        "Subtheme Code Numbers": [129, 133, 134, 135, 136, 150, 151]
+      }
+    ]
+  },
+  {
+    "Theme Name": "Miscellaneous",
+    "Theme Description": "Codes that do not clearly align with any emergent theme.",
+    "Theme-Only Code Numbers": [161],
+    "Subthemes": []
+  }
+]

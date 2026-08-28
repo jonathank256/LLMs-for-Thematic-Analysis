@@ -1,0 +1,149 @@
+[
+  {
+    "Theme Name": "Locomotion & Stance",
+    "Theme Description": "Observations about how the animals stand and move, contrasting bipedal and quadrupedal postures and noting digit configurations linked to locomotion. Emphasis is on stance depiction and functional foot/hand counts relevant to movement.",
+    "Theme-Only Code Numbers": [],
+    "Subthemes": [
+      {
+        "Subtheme Name": "Bipedality",
+        "Subtheme Description": "Mentions of two‑legged posture or depiction of dinosaurs moving primarily on the hind limbs.",
+        "Subtheme Code Numbers": [1, 8, 16, 32, 49, 77, 98, 104, 106]
+      },
+      {
+        "Subtheme Name": "Quadrupedality",
+        "Subtheme Description": "References to four‑legged stance, including facultative quadrupedality and occasional rearing.",
+        "Subtheme Code Numbers": [23, 53, 107, 121, 122]
+      },
+      {
+        "Subtheme Name": "Digits & Toes",
+        "Subtheme Description": "Counts and function of manual and pedal digits that inform locomotor capability and stance.",
+        "Subtheme Code Numbers": [35, 41, 42, 48, 78, 96, 99, 100]
+      }
+    ]
+  },
+  {
+    "Theme Name": "Appendages & Claws",
+    "Theme Description": "Descriptions of forelimb form and function, including arm robustness/length and the presence, absence, or exaggeration of claws or hooves. Focus is on manipulative structures and their variation.",
+    "Theme-Only Code Numbers": [],
+    "Subthemes": [
+      {
+        "Subtheme Name": "Arm Build",
+        "Subtheme Description": "Comments on relative arm thickness and length across specimens.",
+        "Subtheme Code Numbers": [4, 9, 17, 24, 97, 105]
+      },
+      {
+        "Subtheme Name": "Claws & Hooves",
+        "Subtheme Description": "Presence, absence, and size of manual unguals and keratinized tips, including extreme claw morphologies.",
+        "Subtheme Code Numbers": [5, 10, 18, 25, 26, 66, 79, 96]
+      }
+    ]
+  },
+  {
+    "Theme Name": "Body Proportions",
+    "Theme Description": "Core body-shape descriptors emphasizing neck and head proportions and tail form/role. Highlights counterbalancing, taper, and relative size relationships.",
+    "Theme-Only Code Numbers": [],
+    "Subthemes": [
+      {
+        "Subtheme Name": "Neck & Head",
+        "Subtheme Description": "Length and relative size/shape of necks and heads, including muzzle and facial proportions.",
+        "Subtheme Code Numbers": [1, 3, 11, 12, 19, 20, 28, 29, 30, 31, 36, 47, 80, 82, 94, 101, 108, 109]
+      },
+      {
+        "Subtheme Name": "Tail Form",
+        "Subtheme Description": "Tail length, thickness, tapering, and counterbalancing functions.",
+        "Subtheme Code Numbers": [2, 14, 15, 21, 22, 37, 50, 81, 102]
+      }
+    ]
+  },
+  {
+    "Theme Name": "Cranial Features",
+    "Theme Description": "Head specializations used in recognition and feeding, including crests, beaks, and tooth/jaw types. Emphasizes diagnostic cranial traits.",
+    "Theme-Only Code Numbers": [],
+    "Subthemes": [
+      {
+        "Subtheme Name": "Crests & Beaks",
+        "Subtheme Description": "Ornamental and feeding-related cranial structures used to distinguish taxa.",
+        "Subtheme Code Numbers": [27, 33, 56, 73, 120]
+      },
+      {
+        "Subtheme Name": "Teeth & Jaws",
+        "Subtheme Description": "Tooth morphology and jaw visibility/arrangement indicating dietary strategies.",
+        "Subtheme Code Numbers": [13, 83, 95, 110, 111, 118, 119, 29]
+      }
+    ]
+  },
+  {
+    "Theme Name": "Coloration",
+    "Theme Description": "Notes on external color and countershading patterns in the reconstructions. Highlights green tones and yellowish underbellies.",
+    "Theme-Only Code Numbers": [6, 7, 8, 84],
+    "Subthemes": []
+  },
+  {
+    "Theme Name": "Identification & Taxonomy",
+    "Theme Description": "Attempts to place specimens within clades and name specific taxa, including evolutionary/temporal framing. Integrates broad clade reasoning with specific identifications.",
+    "Theme-Only Code Numbers": [],
+    "Subthemes": [
+      {
+        "Subtheme Name": "Theropod Focus",
+        "Subtheme Description": "Identifications and inferences tied to theropods, including degree of derivation and candidate genera.",
+        "Subtheme Code Numbers": [40, 43, 44, 63, 64, 65, 85, 86, 88, 92, 93]
+      },
+      {
+        "Subtheme Name": "Prosauropod Lineage",
+        "Subtheme Description": "Identifications and phylogenetic context for basal sauropodomorphs/prosauropods.",
+        "Subtheme Code Numbers": [45, 57, 58, 59, 60, 62, 67, 68, 69, 103, 49]
+      },
+      {
+        "Subtheme Name": "Hadrosaurids & Lambeosaurus",
+        "Subtheme Description": "Recognitions of hadrosaurids (esp. Lambeosaurus), their traits, size, and time period.",
+        "Subtheme Code Numbers": [51, 52, 54, 55, 56, 70, 71, 72, 73, 74, 75, 76, 116, 117, 118, 119, 120, 121, 122]
+      },
+      {
+        "Subtheme Name": "Clade Context",
+        "Subtheme Description": "Broad clade/era framing and definitions used to situate taxa.",
+        "Subtheme Code Numbers": [39, 58, 59, 60, 61, 62, 72, 76]
+      }
+    ]
+  },
+  {
+    "Theme Name": "Diet & Feeding",
+    "Theme Description": "Statements about trophic strategy inferred from dentition and clade membership, spanning herbivory to omnivory/carnivory. Connects tooth form with diet categories.",
+    "Theme-Only Code Numbers": [],
+    "Subthemes": [
+      {
+        "Subtheme Name": "Herbivory",
+        "Subtheme Description": "Herbivorous habits and dental specializations supporting plant eating.",
+        "Subtheme Code Numbers": [55, 111, 117, 118, 119, 33, 71]
+      },
+      {
+        "Subtheme Name": "Carnivory & Omnivory",
+        "Subtheme Description": "Predatory and mixed diets indicated by tooth shape and clade characterization.",
+        "Subtheme Code Numbers": [13, 61, 65, 95, 112, 113, 83]
+      }
+    ]
+  },
+  {
+    "Theme Name": "Size & Build",
+    "Theme Description": "Perceived overall massiveness and size, including references to the largest forms and heavy structures. Emphasizes robust, large-bodied impressions.",
+    "Theme-Only Code Numbers": [],
+    "Subthemes": [
+      {
+        "Subtheme Name": "Heaviness & Size",
+        "Subtheme Description": "Notes of heavy bodies/tails and references to particularly large taxa.",
+        "Subtheme Code Numbers": [23, 38, 46, 50, 54, 71, 75, 76, 114]
+      }
+    ]
+  },
+  {
+    "Theme Name": "Uncertainty & Recall",
+    "Theme Description": "Metacognitive remarks about difficulty identifying taxa and remembering names. Captures tentative guesses and memory load.",
+    "Theme-Only Code Numbers": [34, 87, 88, 89, 90, 91, 92],
+    "Subthemes": []
+  },
+  {
+    "Theme Name": "Miscellaneous",
+    "Theme Description": "Codes that do not fit any other theme without overlap.",
+    "Theme-Only Code Numbers": [115],
+    "Subthemes": []
+  }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "Theme Name": "Bipedal Characteristics",
+        "Theme Description": "Describes various features related to bipedal dinosaurs, emphasizing their locomotion, limb proportions, and physical features.",
+        "Theme-Only Code Numbers": [1, 8, 16, 32, 49, 98, 104]
+    },
+    {
+        "Theme Name": "Body Structure",
+        "Theme Description": "Focuses on the overall structure of the dinosaurs, including neck length, tail characteristics, and arm descriptions.",
+        "Theme-Only Code Numbers": [19, 21, 22, 37, 50, 51, 70, 71, 81, 102]
+    },
+    {
+        "Theme Name": "Head Features",
+        "Theme Description": "Covers various aspects of the dinosaurs' head characteristics, including shape, mouth type, and teeth structure.",
+        "Theme-Only Code Numbers": [3, 12, 13, 20, 29, 31, 94, 95, 111]
+    },
+    {
+        "Theme Name": "Dietary Preferences",
+        "Theme Description": "Identifies various dietary classifications of dinosaurs, focusing on herbivorous and omnivorous traits.",
+        "Theme-Only Code Numbers": [55, 112, 113, 117, 118]
+    },
+    {
+        "Theme Name": "Species Identification",
+        "Theme Description": "Involves the identification of specific dinosaur types or groups based on characteristics or comparisons.",
+        "Theme-Only Code Numbers": [40, 63, 70, 71, 117, 103, 88, 92, 93]
+    },
+    {
+        "Theme Name": "Coloration and Texture",
+        "Theme Description": "Describes the color and texture patterns on the dinosaurs' bodies, emphasizing their visual appearance.",
+        "Theme-Only Code Numbers": [6, 7, 84]
+    },
+    {
+        "Theme Name": "Miscellaneous",
+        "Theme Description": "Captures codes that do not fit into the defined themes or subthemes.",
+        "Theme-Only Code Numbers": [34, 9, 90, 91, 115, 77]
+    }
+]

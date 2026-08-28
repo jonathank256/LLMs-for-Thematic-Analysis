@@ -1,0 +1,232 @@
+[
+  {
+    "Code 1": "Bipedal stance",
+    "Description": "Participant notes the animal is two-legged.",
+    "Quote": "I see a two-legged..."
+  },
+  {
+    "Code 2": "Three pedal toes",
+    "Description": "Participant observes three toes on the foot.",
+    "Quote": "Three toes,"
+  },
+  {
+    "Code 3": "Two manual claws (uncertain)",
+    "Description": "Participant suggests there may be two claws on the hands with uncertainty.",
+    "Quote": "two claws maybe on the hands? Hard to tell."
+  },
+  {
+    "Code 4": "Long neck",
+    "Description": "Participant describes a long neck.",
+    "Quote": "Looks like it's got a long neck,"
+  },
+  {
+    "Code 5": "Long tail",
+    "Description": "Participant describes a long tail.",
+    "Quote": "long tail,"
+  },
+  {
+    "Code 6": "Short face",
+    "Description": "Participant notes the face is short.",
+    "Quote": "short face,"
+  },
+  {
+    "Code 7": "Short, stunted teeth",
+    "Description": "Participant characterizes the teeth as short and stunted.",
+    "Quote": "short, sort of stunted, teeth,"
+  },
+  {
+    "Code 8": "Mottled brown-green coloration",
+    "Description": "Participant describes body coloration as mottled brown-green with a yellowish underbelly.",
+    "Quote": "a sort of mottled brown-green colour with a yellowish underbelly."
+  },
+  {
+    "Code 9": "Theropod identification",
+    "Description": "Participant identifies the animal as a theropod.",
+    "Quote": "It's a theropod, I think, of some kind..."
+  },
+  {
+    "Code 10": "Derived theropod (probable)",
+    "Description": "Participant suggests it is probably a derived theropod.",
+    "Quote": "probably a derived one."
+  },
+  {
+    "Code 11": "Name recall difficulty",
+    "Description": "Participant indicates difficulty remembering a specific dinosaur name.",
+    "Quote": "There's an animal I'm thinking of whose name I can't remember."
+  },
+  {
+    "Code 12": "Chilesaurus identification attempt",
+    "Description": "Participant proposes Chilesaurus as the identification.",
+    "Quote": "Is it chilesaurus or something like that?"
+  },
+  {
+    "Code 13": "Proliferation of dinosaur names",
+    "Description": "Participant remarks that there are many dinosaur names now.",
+    "Quote": "There are so many dinosaurs now."
+  },
+  {
+    "Code 14": "Stopped tracking dinosaur names",
+    "Description": "Participant states they stopped keeping track of dinosaur names as a teenager.",
+    "Quote": "I stopped keeping track of dinosaur names as a teenager."
+  },
+  {
+    "Code 15": "Too many names to remember",
+    "Description": "Participant notes difficulty remembering due to the number of dinosaur names.",
+    "Quote": "There are too many for me to remember now."
+  },
+  {
+    "Code 16": "Chilesaurus identification affirmation",
+    "Description": "Participant affirms the identification of Chilesaurus.",
+    "Quote": "Chilesaurus, there you go."
+  },
+  {
+    "Code 17": "Herrerasaurus identification",
+    "Description": "Participant identifies the dinosaur as Herrerasaurus.",
+    "Quote": "All right. This is herrerasaurus I think."
+  },
+  {
+    "Code 18": "Low, boxy skull",
+    "Description": "Participant describes the skull as low and boxy.",
+    "Quote": "Sort of a low, boxy skull."
+  },
+  {
+    "Code 19": "Ziphodont teeth (pointy, recurved)",
+    "Description": "Participant describes teeth as ziphodont, pointy and recurved.",
+    "Quote": "You know, what we call ziphodont teeth, so they're pointy and recurved."
+  },
+  {
+    "Code 20": "Three manual claws",
+    "Description": "Participant notes three claws on the arms.",
+    "Quote": "Three claws on the arms, which are modestly long."
+  },
+  {
+    "Code 21": "Forelimbs modest length",
+    "Description": "Participant describes the arms as modestly long.",
+    "Quote": "Three claws on the arms, which are modestly long."
+  },
+  {
+    "Code 22": "Bipedal stance",
+    "Description": "Participant describes Herrerasaurus as bipedal.",
+    "Quote": "And bipedal,"
+  },
+  {
+    "Code 23": "Three functional pedal digits",
+    "Description": "Participant specifies three functional toes.",
+    "Quote": "with three functional toes"
+  },
+  {
+    "Code 24": "Non-weight-bearing toe",
+    "Description": "Participant notes an additional toe that does not touch the ground.",
+    "Quote": "and a toe on each foot that doesn't touch the ground."
+  },
+  {
+    "Code 25": "Moderately long neck",
+    "Description": "Participant describes a modestly long neck.",
+    "Quote": "And yeah, sort of modestly long neck"
+  },
+  {
+    "Code 26": "Long tail",
+    "Description": "Participant notes a long tail.",
+    "Quote": "and long tail."
+  },
+  {
+    "Code 27": "Prosauropod identification (Plateosaurus comparison)",
+    "Description": "Participant identifies the dinosaur as a prosauropod, comparing it to Plateosaurus.",
+    "Quote": "This is a prosauropod of some kind, like plateosaurus."
+  },
+  {
+    "Code 28": "Bipedal depiction",
+    "Description": "Participant states the animal is shown as bipedal.",
+    "Quote": "It's shown bipedal."
+  },
+  {
+    "Code 29": "Shorter forelimbs",
+    "Description": "Participant notes shorter front legs.",
+    "Quote": "Sort of shorter front legs,"
+  },
+  {
+    "Code 30": "Hindlimb locomotion depiction",
+    "Description": "Participant comments it's often shown walking on hind legs.",
+    "Quote": "which is why they're often shown walking about on their hind legs,"
+  },
+  {
+    "Code 31": "Facultative quadruped capability",
+    "Description": "Participant suggests the animal could probably walk on all fours if needed.",
+    "Quote": "although we think they could probably walk on all fours if they had to."
+  },
+  {
+    "Code 32": "Long neck",
+    "Description": "Participant describes quite a long neck.",
+    "Quote": "And quite a long neck at that."
+  },
+  {
+    "Code 33": "Short, boxy skull",
+    "Description": "Participant describes a short, boxy skull.",
+    "Quote": "Short boxy skull."
+  },
+  {
+    "Code 34": "Teeth not visible",
+    "Description": "Participant notes the teeth cannot be seen and thus withholds description.",
+    "Quote": "And I can't see their teeth, so I won't tell you about them, but..."
+  },
+  {
+    "Code 35": "Iguanine-like, leaf-shaped teeth",
+    "Description": "Participant describes teeth as iguana-like and leaf-shaped.",
+    "Quote": "Well, their teeth are very, almost iguana-like, so they're sort of leaf-shaped teeth."
+  },
+  {
+    "Code 36": "Omnivorous diet (probable)",
+    "Description": "Participant suggests an omnivorous diet.",
+    "Quote": "They're probably omnivorous animals."
+  },
+  {
+    "Code 37": "Mixed plant and meat diet (occasional)",
+    "Description": "Participant states a mix of plant and meat eating occasionally.",
+    "Quote": "Mix of, probably plant and meat eaters occasionally."
+  },
+  {
+    "Code 38": "Large body size",
+    "Description": "Participant describes them as big animals.",
+    "Quote": "Big animals at that."
+  },
+  {
+    "Code 39": "Personal affinity for Lambeosaurus",
+    "Description": "Participant expresses personal fondness for Lambeosaurus.",
+    "Quote": "a dinosaur near and dear to my heart."
+  },
+  {
+    "Code 40": "Lambeosaurus identification",
+    "Description": "Participant identifies the dinosaur as Lambeosaurus.",
+    "Quote": "This is lambeosaurus."
+  },
+  {
+    "Code 41": "Herbivory (large-bodied)",
+    "Description": "Participant describes Lambeosaurus as big plant-eating dinosaurs.",
+    "Quote": "these are big plant eating dinosaurs"
+  },
+  {
+    "Code 42": "Tooth batteries",
+    "Description": "Participant notes the presence of tooth batteries.",
+    "Quote": "with big tooth batteries,"
+  },
+  {
+    "Code 43": "Tooth batteries not visible",
+    "Description": "Participant remarks the tooth batteries are not visible.",
+    "Quote": "which we can't see, of course,"
+  },
+  {
+    "Code 44": "Hatchet-shaped crest",
+    "Description": "Participant describes the crest shape as hatchet-like.",
+    "Quote": "famously known for the sort of hatchet shaped crest on the head."
+  },
+  {
+    "Code 45": "Quadrupedal depiction",
+    "Description": "Participant states it is shown walking on all fours.",
+    "Quote": "it's shown walking here on all fours,"
+  },
+  {
+    "Code 46": "Occasional bipedal rearing",
+    "Description": "Participant suggests the animal could rear up bipedally occasionally.",
+    "Quote": "although we think they could rear up bipedally occasionally."
+  }
+]

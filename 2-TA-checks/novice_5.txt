@@ -1,0 +1,45 @@
+Code 1: Long skinny tail, Description: Participant notes the tail is long and thin., Quote: it looks like a green, long, skinny tail.
+Code 2: Green coloration, Description: Participant reports green coloration., Quote: it looks like a green, long, skinny tail.
+Code 3: Long neck curving upwards, Description: Participant describes the neck as long and curved upward., Quote: a long neck curving upwards
+Code 4: Small head, Description: Participant identifies a small head., Quote: looks like a small head.
+Code 5: Two legs and two arms, Description: Participant notes the presence of two legs and two arms., Quote: two legs and two arms sticking out.
+Code 6: Green and grey pattern, Description: Participant describes a green and grey patterning., Quote: it looks like a green and, let's see, grey pattern
+Code 7: Scales on top, Description: Participant observes scales on the top region., Quote: some scales I see at the top.
+Code 8: Yellow ventral outline, Description: Participant describes a yellow outline along the underside from neck to tail section., Quote: a yellow outline on the bottom from the neck to some of the tail
+Code 9: Claws present, Description: Participant mentions claws., Quote: along with some claws it seems
+Code 10: Toes present, Description: Participant mentions toes., Quote: and toes.
+Code 11: Mouth open, Description: Participant notes an open mouth., Quote: mouth open
+Code 12: Teeth visible, Description: Participant reports visible teeth., Quote: teeth
+Code 13: Skinny tail, Description: Participant describes a thin tail., Quote: a skinny tail.
+Code 14: Two legs and two arms, Description: Participant again notes two legs and two arms., Quote: two legs and two arms.
+Code 15: Small eye, Description: Participant identifies a small eye., Quote: a small eye.
+Code 16: Brown outline at top, Description: Participant notes a brown outline along the dorsal/top area., Quote: it's a brown, like, outline at the top
+Code 17: Alternating brown and green, Description: Participant describes color alternation between brown and green., Quote: it's followed by alternating between brown and green.
+Code 18: Pattern on body and legs, Description: Participant states the pattern extends across the body and legs., Quote: on the body- main body, and on the legs as well
+Code 19: Uncertainty toes vs claws, Description: Participant expresses uncertainty distinguishing toes from claws., Quote: I think, toe... claws
+Code 20: Skinny nails, Description: Participant describes nails as skinny., Quote: a lot more skinny nails
+Code 21: Skinny toes, Description: Participant describes toes as skinny., Quote: skinny toes
+Code 22: Two pointy things at back, Description: Participant notes two pointed structures at the back of the foot., Quote: two pointy things at the back as well...
+Code 23: Thicker body, Description: Participant describes a much thicker overall build., Quote: it's a lot- looks like this is a much thicker one
+Code 24: Looks fat, Description: Participant characterizes the body as fat., Quote: looks fat.
+Code 25: Longer neck, Description: Participant indicates the neck is longer., Quote: Longer neck.
+Code 26: Longer and skinnier neck, Description: Participant specifies the neck is both longer and skinnier., Quote: longer and skinnier neck
+Code 27: Long nails with one on back, Description: Participant notes long nails and an additional one at the back., Quote: long nails along with one on the back
+Code 28: Long arms, Description: Participant describes the arms as long., Quote: the arms again, same long ones
+Code 29: Much longer tail, Description: Participant reports a much longer tail., Quote: a much longer tail
+Code 30: Dark brown coloration, Description: Participant mentions dark brown color., Quote: it looks like a dark brown
+Code 31: Uncertainty about color, Description: Participant expresses uncertainty regarding color assessment., Quote: I think- I'm not sure-
+Code 32: Dark-light contrast ventrally, Description: Participant describes darker tones alternating with lighter on belly and tail underside., Quote: alternating along with the lighter... on the belly and on the bottom of the tail.
+Code 33: Spots present, Description: Participant notes the presence of spots., Quote: I see some spots as well.
+Code 34: Spiky pattern on tail, Description: Participant observes a spiky pattern along the tail., Quote: spiky pattern on the tail.
+Code 35: Quadrupedal stance, Description: Participant reports the animal is on four legs., Quote: it's on four legs
+Code 36: Blue and green pattern with scales, Description: Participant describes a blue and green pattern accompanied by scales., Quote: has a blue and green pattern with scales.
+Code 37: Straighter tail, Description: Participant notes a much straighter tail., Quote: a much straighter tail
+Code 38: Spikes at top of body, Description: Participant describes spikes along the top of the body., Quote: spikes at the top of the body.
+Code 39: Fan shape on mouth, Description: Participant notes a fan-shaped structure associated with the mouth., Quote: some sort of fan shape on its mouth.
+Code 40: White ventral and leg outline, Description: Participant describes a white outline on the belly and legs., Quote: a white, like, outline at the bottom, like on the bottom of its belly, and legs
+Code 41: Toenails thicker and shorter, Description: Participant reports the toenails are thicker and shorter., Quote: the nails or toenails are a lot less long and instead more thicker and shorter.
+Code 42: Nails not nail-like, Description: Participant states the structures do not really look like nails., Quote: They don't really look like nails, they look more like...
+Code 43: Horse-shaped, Description: Participant compares the shape to that of a horse., Quote: -looks more like a horse-shaped.
+Code 44: Hooves, Description: Participant identifies hoof-like structures., Quote: Hooves. Yeah.
+Code 45: Spike row at top, Description: Participant notes a row of spikes along the top., Quote: a spike row at the top it seems.

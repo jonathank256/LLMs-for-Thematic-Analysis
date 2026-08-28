@@ -1,0 +1,262 @@
+[
+  {
+    "Code 1": "Green coloration",
+    "Description": "Mentions the dinosaur is green.",
+    "Quote": "This dinosaur is green"
+  },
+  {
+    "Code 2": "Bipedal posture",
+    "Description": "States the dinosaur is bipedal.",
+    "Quote": "it's bipedal"
+  },
+  {
+    "Code 3": "Longer tail",
+    "Description": "Notes the tail is longer.",
+    "Quote": "it's got, like, a longer tail"
+  },
+  {
+    "Code 4": "Longer neck",
+    "Description": "Notes the neck is a little bit longer.",
+    "Quote": "a little bit of a longer neck"
+  },
+  {
+    "Code 5": "Stubby mouth",
+    "Description": "Describes the mouth as very stubby.",
+    "Quote": "a very stubby mouth"
+  },
+  {
+    "Code 6": "Small teeth",
+    "Description": "States the teeth are not super big.",
+    "Quote": "it doesn't have super big teeth."
+  },
+  {
+    "Code 7": "Longer front limbs",
+    "Description": "Notes the front legs are longer than average for a biped.",
+    "Quote": "it's, like, front legs are longer. Than the average bipedal dinosaur."
+  },
+  {
+    "Code 8": "Bird-like feet",
+    "Description": "Describes the feet as bird-like.",
+    "Quote": "it's also got very, like. Bird-like feet."
+  },
+  {
+    "Code 9": "Feet claws noted",
+    "Description": "Mentions claws on the feet.",
+    "Quote": "Claws, I guess I would say?"
+  },
+  {
+    "Code 10": "Bipedal posture",
+    "Description": "States this dinosaur is also bipedal.",
+    "Quote": "it's also bipedal"
+  },
+  {
+    "Code 11": "Longer front limbs",
+    "Description": "Notes this specimen also has longer front legs.",
+    "Quote": "it's also got longer front legs"
+  },
+  {
+    "Code 12": "Bigger feet",
+    "Description": "Describes the feet as bigger.",
+    "Quote": "it's feet are bigger"
+  },
+  {
+    "Code 13": "Fatter legs",
+    "Description": "Describes the legs as fatter.",
+    "Quote": "its legs are fatter, I would say."
+  },
+  {
+    "Code 14": "Tail with perfect arch",
+    "Description": "Notes the tail has a perfect arch.",
+    "Quote": "tail that has, like, the perfect, like, arch to it"
+  },
+  {
+    "Code 15": "Larger mouth opens wider",
+    "Description": "Describes a bigger mouth with wider gape.",
+    "Quote": "it's got, like, a bigger mouth that opens wider"
+  },
+  {
+    "Code 16": "Longer mouth",
+    "Description": "States the mouth is longer.",
+    "Quote": "and it's, like, longer, if that makes sense?"
+  },
+  {
+    "Code 17": "Larger teeth",
+    "Description": "Notes the teeth are larger.",
+    "Quote": "With larger teeth"
+  },
+  {
+    "Code 18": "Smaller-looking eye",
+    "Description": "Describes the eye as smaller-looking.",
+    "Quote": "sort of a smaller-looking eye"
+  },
+  {
+    "Code 19": "Nostrils visible",
+    "Description": "Mentions visible nostrils.",
+    "Quote": "and it's also got nostrils."
+  },
+  {
+    "Code 20": "Nostrils not noticed before",
+    "Description": "States nostrils were not noticed on the other one.",
+    "Quote": "Which is something I noticed that I didn't notice about the other one."
+  },
+  {
+    "Code 21": "Bigger feet",
+    "Description": "Notes same big feet as the last one, indicating bigger feet.",
+    "Quote": "same big feet as the last one, so bigger feet."
+  },
+  {
+    "Code 22": "Green coloration",
+    "Description": "Mentions the dinosaur is green.",
+    "Quote": "It's a green"
+  },
+  {
+    "Code 23": "Dorsal stripe pattern",
+    "Description": "Notes a cool stripe pattern on the back.",
+    "Quote": "a cool sort of stripe pattern on the back"
+  },
+  {
+    "Code 24": "Large thigh",
+    "Description": "Describes a big thigh.",
+    "Quote": "a big thigh to it."
+  },
+  {
+    "Code 25": "Stubbier front limbs",
+    "Description": "States the front legs are stubbier than previous ones.",
+    "Quote": "it's front legs are stubbier, for sure, compared to the last two."
+  },
+  {
+    "Code 26": "Stubbier front limbs",
+    "Description": "Restates that the front legs are stubby.",
+    "Quote": "I would say it's got stubby front legs"
+  },
+  {
+    "Code 27": "Front-leg claws noted",
+    "Description": "Mentions little claws on the front legs.",
+    "Quote": "it's got, like, little, like, claws on the front legs"
+  },
+  {
+    "Code 28": "Claws not noticed before",
+    "Description": "States claws were not particularly noticed on the other one.",
+    "Quote": "that I didn't necessarily take particular notice to on the other one."
+  },
+  {
+    "Code 29": "Mid-sized to long neck",
+    "Description": "Describes the neck length as mid-sized to long.",
+    "Quote": "it's got, like, a mid-sized to long neck."
+  },
+  {
+    "Code 30": "Stubby mouth",
+    "Description": "Restates a stubby mouth.",
+    "Quote": "Stubby mouth again."
+  },
+  {
+    "Code 31": "Nostrils visible",
+    "Description": "Notes nostrils are seen.",
+    "Quote": "I also see nostrils."
+  },
+  {
+    "Code 32": "Dorsal brown-green stripe",
+    "Description": "Specifies the back pattern as a brown stripe with green.",
+    "Quote": "the pattern on the back is, like, a brown stripe with a green,"
+  },
+  {
+    "Code 33": "Flatter and longer tail",
+    "Description": "Describes the tail as a little bit flatter and longer.",
+    "Quote": "the tail is probably a little bit flatter and longer."
+  },
+  {
+    "Code 34": "Tail thicker for longer",
+    "Description": "Notes the tail remains thicker for longer.",
+    "Quote": "Like, it's thicker for longer,"
+  },
+  {
+    "Code 35": "Reduced tail curvature",
+    "Description": "States the tail doesn't curve as well.",
+    "Quote": "it doesn't curve as well."
+  },
+  {
+    "Code 36": "Flatter tail",
+    "Description": "Adds that the tail is a little bit flatter.",
+    "Quote": "It's a little bit flatter."
+  },
+  {
+    "Code 37": "Quadrupedal posture",
+    "Description": "States the dinosaur is quadrupedal.",
+    "Quote": "This one's quadrupedal"
+  },
+  {
+    "Code 38": "Four legs stated",
+    "Description": "Explicitly mentions it has four legs.",
+    "Quote": "so it's got four legs on it."
+  },
+  {
+    "Code 39": "Shorter body length",
+    "Description": "Describes it as definitely shorter in length than others.",
+    "Quote": "It's definitely shorter than the other ones in length."
+  },
+  {
+    "Code 40": "Probably wider body",
+    "Description": "Suggests the body is probably wider.",
+    "Quote": "I imagine he's probably wider"
+  },
+  {
+    "Code 41": "Tail thicker for longer",
+    "Description": "Notes the tail is thicker for longer.",
+    "Quote": "Thicker for longer,"
+  },
+  {
+    "Code 42": "Tail stops short",
+    "Description": "States the tail stops short.",
+    "Quote": "and stops short"
+  },
+  {
+    "Code 43": "Dorsal spikes",
+    "Description": "Mentions spikes on the back.",
+    "Quote": "the spikes on the back."
+  },
+  {
+    "Code 44": "Arched upward neck profile",
+    "Description": "Describes an arched neck that goes down then up again.",
+    "Quote": "an arched, like, neck upwards, instead of it, like, smoothly curving up, it sort of goes down and then up again."
+  },
+  {
+    "Code 45": "Weird nose piece",
+    "Description": "Notes a weird nose piece.",
+    "Quote": "It's got some sort of weird nose piece on it."
+  },
+  {
+    "Code 46": "Longer mouth",
+    "Description": "States it has a longer mouth.",
+    "Quote": "it's got a longer, like, mouth"
+  },
+  {
+    "Code 47": "Defined jaw visible",
+    "Description": "Mentions a defined jaw is visible.",
+    "Quote": "you can also see, like, a defined, like, jaw on this one as well"
+  },
+  {
+    "Code 48": "Jaw not visible on others",
+    "Description": "States the jaw wasn't visible on some others.",
+    "Quote": "whereas some of the other ones, I feel like you couldn't, with the amount of skin that's there."
+  },
+  {
+    "Code 49": "Stubby mouth",
+    "Description": "Restates a stubby mouth for this specimen.",
+    "Quote": "he's also got a stubby mouth."
+  },
+  {
+    "Code 50": "Long front",
+    "Description": "Mentions a long front.",
+    "Quote": "Like, he's got, like, a long, like, front,"
+  },
+  {
+    "Code 51": "Mouth not that long",
+    "Description": "Clarifies the mouth itself isn't that long.",
+    "Quote": "but his mouth actually isn't, like, that long"
+  },
+  {
+    "Code 52": "Limited mouth gape",
+    "Description": "States the mouth wouldn't open very wide.",
+    "Quote": "It wouldn't open very wide, is what I'm trying to say."
+  }
+]

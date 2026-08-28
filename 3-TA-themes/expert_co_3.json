@@ -1,0 +1,47 @@
+[
+{
+"Theme Name": "Morphological Features",
+"Theme Description": "This theme encompasses various physical characteristics and structures observed in different dinosaurs, highlighting features like neck length, body shape, and extremities.",
+ "Theme-Only Code Numbers": [1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13, 19, 20, 21, 22, 24, 37, 46, 50, 67, 70, 73, 117, 120, 121]
+},
+{
+"Theme Name": "Identification Attempts",
+"Theme Description": "This theme reflects the participant's efforts to categorize and identify different dinosaurs, often expressing uncertainty or recalling specific taxa.",
+ "Theme-Only Code Numbers": [34, 38, 39, 40, 63, 66, 82, 83, 85, 88, 91, 93, 115, 116]
+},
+{
+"Theme Name": "Dietary Habits",
+"Theme Description": "This theme includes references to the dietary preferences of various dinosaurs, categorizing them as herbivorous, carnivorous, or omnivorous.",
+ "Theme-Only Code Numbers": [55, 112, 113]
+},
+{
+"Theme Name": "Locomotion Types",
+"Theme Description": "This theme details the different modes of movement observed in dinosaurs, focusing on their bipedal or quadrupedal locomotion.",
+ "Theme-Only Code Numbers": [16, 32, 49, 53, 121]
+},
+{
+"Theme Name": "Anatomical Structures",
+"Theme Description": "This theme encapsulates specific anatomical features such as teeth types and digit counts, illuminating the diversity in dinosaur morphology.",
+ "Theme-Only Code Numbers": [33, 41, 42, 95, 111]
+},
+{
+"Theme Name": "Coloration and Patterns",
+"Theme Description": "This theme captures descriptions of the coloration and patterns observed in dinosaurs, emphasizing visual traits that contribute to their identification.",
+ "Theme-Only Code Numbers": [6, 7, 84]
+},
+{
+"Theme Name": "Historical Context",
+"Theme Description": "This theme includes references to the evolution and historical lineage of dinosaurs, noting their placement within the greater dinosaur lineage.",
+ "Theme-Only Code Numbers": [59, 62, 68, 69]
+},
+{
+"Theme Name": "Familiarity and Interest",
+"Theme Description": "This theme highlights the participant's personal interest and emotional connections to certain dinosaurs, reflecting their engagement with the subject.",
+ "Theme-Only Code Numbers": [89, 90, 91, 115]
+},
+{
+"Theme Name": "Miscellaneous",
+"Theme Description": "Additional codes that do not fit into any distinct themes or subthemes.",
+ "Theme-Only Code Numbers": [27, 30, 31, 44, 54, 80, 88, 91]
+}
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "Code 1": "Green coloration",
+    "Description": "Participant describes the dinosaur's color as green.",
+    "Quote": "Green, long neck, long tail."
+  },
+  {
+    "Code 2": "Long neck",
+    "Description": "Participant notes a long neck.",
+    "Quote": "Green, long neck, long tail."
+  },
+  {
+    "Code 3": "Long tail",
+    "Description": "Participant notes a long tail.",
+    "Quote": "Green, long neck, long tail."
+  },
+  {
+    "Code 4": "Skinny/lean body",
+    "Description": "Participant describes a slender body build.",
+    "Quote": "Kind of skinny, lean,"
+  },
+  {
+    "Code 5": "Cute appearance",
+    "Description": "Participant evaluates the dinosaur as cute-looking.",
+    "Quote": "kind of cute looking,"
+  },
+  {
+    "Code 6": "Small arms",
+    "Description": "Participant notes the dinosaur has small arms.",
+    "Quote": "small arms."
+  },
+  {
+    "Code 7": "Popular toy resemblance",
+    "Description": "Participant says the dinosaur reminds them of a popular toy depiction.",
+    "Quote": "Kind of reminds me of, like, the toy, or, like, this one is very popular... that I see a lot."
+  },
+  {
+    "Code 8": "Familiarity due to popularity",
+    "Description": "Participant reports familiarity because it is seen often.",
+    "Quote": "this one is very popular... that I see a lot."
+  },
+  {
+    "Code 9": "Familiar appearance (toys)",
+    "Description": "Participant states the appearance is familiar like many toys.",
+    "Quote": "It has, like, a very familiar appearance, like a lot of the toys."
+  },
+  {
+    "Code 10": "Not beak-like",
+    "Description": "Participant remarks that the dinosaur does not appear beak-like.",
+    "Quote": "Not very beak-like."
+  },
+  {
+    "Code 11": "More scary appearance",
+    "Description": "Participant finds this dinosaur more scary.",
+    "Quote": "This one looks a little bit more scary."
+  },
+  {
+    "Code 12": "Less cute",
+    "Description": "Participant reports it looks less cute.",
+    "Quote": "Less cute."
+  },
+  {
+    "Code 13": "Adult version resemblance",
+    "Description": "Participant says it looks like an adult version of another one.",
+    "Quote": "It looks like an adult version of the one I just saw."
+  },
+  {
+    "Code 14": "Longer mouth",
+    "Description": "Participant notes a longer mouth.",
+    "Quote": "It has a longer mouth."
+  },
+  {
+    "Code 15": "Alligator-like look",
+    "Description": "Participant compares the dinosaur's appearance to an alligator.",
+    "Quote": "It kind of looks like an alligator."
+  },
+  {
+    "Code 16": "Green with brown",
+    "Description": "Participant describes coloration as green with more brown.",
+    "Quote": "Green as well, has more brown."
+  },
+  {
+    "Code 17": "Less familiar",
+    "Description": "Participant indicates this dinosaur is less familiar to them.",
+    "Quote": "Less familiar to me."
+  },
+  {
+    "Code 18": "Resembles familiar one",
+    "Description": "Participant says it resembles a familiar dinosaur.",
+    "Quote": "It resembles one that is familiar, I think."
+  },
+  {
+    "Code 19": "Raptor comparison",
+    "Description": "Participant thinks it might be a raptor.",
+    "Quote": "I'm thinking of a raptor, but I don't know if that's a raptor."
+  },
+  {
+    "Code 20": "Arms too long for raptor",
+    "Description": "Participant notes the arms seem too long for a raptor comparison.",
+    "Quote": "it looks like a raptor, but its arms look a little too long."
+  },
+  {
+    "Code 21": "Identification uncertainty",
+    "Description": "Participant expresses uncertainty about identification.",
+    "Quote": "I don't even know."
+  },
+  {
+    "Code 22": "Herbivore inference",
+    "Description": "Participant infers the dinosaur eats vegetables.",
+    "Quote": "This one, I think, is the one that eats vegetables."
+  },
+  {
+    "Code 23": "Long neck reason for herbivory",
+    "Description": "Participant cites the long neck as the reason for herbivory.",
+    "Quote": "Because of it's long neck."
+  },
+  {
+    "Code 24": "Correctness uncertainty",
+    "Description": "Participant is unsure if their inference is correct.",
+    "Quote": "I don't know if I'm right or wrong."
+  },
+  {
+    "Code 25": "Fatter version description",
+    "Description": "Participant describes it as a fatter version.",
+    "Quote": "It looks like a fatter version of it, though."
+  },
+  {
+    "Code 26": "Eats a lot of vegetables",
+    "Description": "Participant says it looks like it eats a lot of vegetables.",
+    "Quote": "it looks more like it eats a lot of vegetables."
+  },
+  {
+    "Code 27": "Normally tinier belief",
+    "Description": "Participant believes they are normally tinier.",
+    "Quote": "I thought they're normally, like, tinier,"
+  },
+  {
+    "Code 28": "Type or family speculation",
+    "Description": "Participant speculates it might be a type or family of another.",
+    "Quote": "maybe it's, like, a type or a family of that..."
+  },
+  {
+    "Code 29": "Thought more green",
+    "Description": "Participant thought these dinosaurs were more green.",
+    "Quote": "And I also thought they were more green, so, I don't know."
+  },
+  {
+    "Code 30": "Media influence acknowledged",
+    "Description": "Participant attributes prior beliefs to movies and similar media.",
+    "Quote": "But that might be just from, like, movies and things like that,"
+  },
+  {
+    "Code 31": "Veggie eater long-neck label",
+    "Description": "Participant labels it as the veggie eater, the long-neck ones.",
+    "Quote": "it looks like the veggie eater, the long neck ones."
+  },
+  {
+    "Code 32": "Very long tail relative to knowledge",
+    "Description": "Participant notes the tail looks very long compared to what they know.",
+    "Quote": "Its tail looks very long in comparison to what I know."
+  },
+  {
+    "Code 33": "Less scary evaluation",
+    "Description": "Participant evaluates this dinosaur as less scary.",
+    "Quote": "It looks, yeah, less scary."
+  },
+  {
+    "Code 34": "No idea what it is",
+    "Description": "Participant states they have no idea what the dinosaur is.",
+    "Quote": "This one, I have no idea what it is."
+  },
+  {
+    "Code 35": "Never seen before",
+    "Description": "Participant says they have never seen this dinosaur before.",
+    "Quote": "I've never seen it before."
+  },
+  {
+    "Code 36": "Deer-like appearance",
+    "Description": "Participant compares the dinosaur to a deer.",
+    "Quote": "It looks like a deer,"
+  },
+  {
+    "Code 37": "Deer-like contradiction",
+    "Description": "Participant notes it also doesn't look like a deer.",
+    "Quote": "but then it doesn't look like a deer."
+  },
+  {
+    "Code 38": "Bird-like appearance",
+    "Description": "Participant compares the dinosaur to a bird.",
+    "Quote": "It looks like a bird,"
+  },
+  {
+    "Code 39": "Bird-like contradiction",
+    "Description": "Participant notes it also doesn't look like a bird.",
+    "Quote": "but not, at the same time,"
+  },
+  {
+    "Code 40": "Combination deer and bird",
+    "Description": "Participant says it looks like a combination of a deer and a bird.",
+    "Quote": "so it looks like a combination of a deer and a bird"
+  },
+  {
+    "Code 41": "Rough/spiky texture",
+    "Description": "Participant describes the texture as rough and spiky.",
+    "Quote": "very rough-looking so... like spiky."
+  },
+  {
+    "Code 42": "Many wrinkles",
+    "Description": "Participant observes many wrinkles.",
+    "Quote": "he has a lot of wrinkles."
+  },
+  {
+    "Code 43": "Cute face",
+    "Description": "Participant finds the face really cute.",
+    "Quote": "it kind of has a really cute face though, I'm not gonna lie."
+  },
+  {
+    "Code 44": "Deer of some sort",
+    "Description": "Participant reiterates a deer-like impression.",
+    "Quote": "Like, it looks like a deer of some sort."
+  },
+  {
+    "Code 45": "Name origin question (faces)",
+    "Description": "Participant asks if the name is because of their faces.",
+    "Quote": "Really? Oh, is it because of their faces?"
+  },
+  {
+    "Code 46": "Cuteness reaction",
+    "Description": "Participant reacts by calling it cute.",
+    "Quote": "That's kind of cute. That's cute."
+  }
+]

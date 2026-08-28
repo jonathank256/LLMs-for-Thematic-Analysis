@@ -1,0 +1,207 @@
+Code 1: "Code 1: Green coloration, Description: Mentions the dinosaur is green., Quote: This dinosaur is green"
+Code 2: "Code 2: Bipedal posture, Description: States the dinosaur is bipedal., Quote: it's bipedal"
+Code 3: "Code 3: Longer tail, Description: Notes the tail is longer., Quote: it's got, like, a longer tail"
+Code 4: "Code 4: Longer neck, Description: Notes the neck is a little bit longer., Quote: a little bit of a longer neck"
+Code 5: "Code 5: Stubby mouth, Description: Describes the mouth as very stubby., Quote: a very stubby mouth"
+Code 6: "Code 6: Small teeth, Description: States the teeth are not super big., Quote: it doesn't have super big teeth."
+Code 7: "Code 7: Longer front limbs, Description: Notes the front legs are longer than average for a biped., Quote: it's, like, front legs are longer. Than the average bipedal dinosaur."
+Code 8: "Code 8: Bird-like feet, Description: Describes the feet as bird-like., Quote: it's also got very, like. Bird-like feet."
+Code 9: "Code 9: Feet claws noted, Description: Mentions claws on the feet., Quote: Claws, I guess I would say?"
+Code 10: "Code 10: Bipedal posture, Description: States this dinosaur is also bipedal., Quote: it's also bipedal"
+Code 11: "Code 11: Longer front limbs, Description: Notes this specimen also has longer front legs., Quote: it's also got longer front legs"
+Code 12: "Code 12: Bigger feet, Description: Describes the feet as bigger., Quote: it's feet are bigger"
+Code 13: "Code 13: Fatter legs, Description: Describes the legs as fatter., Quote: its legs are fatter, I would say."
+Code 14: "Code 14: Tail with perfect arch, Description: Notes the tail has a perfect arch., Quote: tail that has, like, the perfect, like, arch to it"
+Code 15: "Code 15: Larger mouth opens wider, Description: Describes a bigger mouth with wider gape., Quote: it's got, like, a bigger mouth that opens wider"
+Code 16: "Code 16: Longer mouth, Description: States the mouth is longer., Quote: it's got, like, a bigger mouth that opens wider, and it's, like, longer, if that makes sense?"
+Code 17: "Code 17: Larger teeth, Description: Notes the teeth are larger., Quote: With larger teeth"
+Code 18: "Code 18: Smaller-looking eye, Description: Describes the eye as smaller-looking., Quote: sort of a smaller-looking eye"
+Code 19: "Code 19: Nostrils visible, Description: Mentions visible nostrils., Quote: and it's also got nostrils."
+Code 20: "Code 20: Nostrils not noticed before, Description: States nostrils were not noticed on the other one., Quote: and it's also got nostrils. Which is something I noticed that I didn't notice about the other one."
+Code 21: "Code 21: Bigger feet, Description: Notes same big feet as the last one, indicating bigger feet., Quote: same big feet as the last one, so bigger feet."
+Code 22: "Code 22: Green coloration, Description: Mentions the dinosaur is green., Quote: It's a green"
+Code 23: "Code 23: Dorsal stripe pattern, Description: Notes a cool stripe pattern on the back., Quote: a cool sort of stripe pattern on the back"
+Code 24: "Code 24: Large thigh, Description: Describes a big thigh., Quote: a big thigh to it."
+Code 25: "Code 25: Stubbier front limbs, Description: States the front legs are stubbier than previous ones., Quote: it's front legs are stubbier, for sure, compared to the last two."
+Code 26: "Code 26: Stubbier front limbs, Description: Restates that the front legs are stubby., Quote: I would say it's got stubby front legs"
+Code 27: "Code 27: Front-leg claws noted, Description: Mentions little claws on the front legs., Quote: it's got, like, little, like, claws on the front legs"
+Code 28: "Code 28: Claws not noticed before, Description: States claws were not particularly noticed on the other one., Quote: it's got, like, little, like, claws on the front legs that I didn't necessarily take particular notice to on the other one."
+Code 29: "Code 29: Mid-sized to long neck, Description: Describes the neck length as mid-sized to long., Quote: it's got, like, a mid-sized to long neck."
+Code 30: "Code 30: Stubby mouth, Description: Restates a stubby mouth., Quote: Stubby mouth again."
+Code 31: "Code 31: Nostrils visible, Description: Notes nostrils are seen., Quote: I also see nostrils."
+Code 32: "Code 32: Dorsal brown-green stripe, Description: Specifies the back pattern as a brown stripe with green., Quote: the pattern on the back is, like, a brown stripe with a green,"
+Code 33: "Code 33: Flatter and longer tail, Description: Describes the tail as a little bit flatter and longer., Quote: the tail is probably a little bit flatter and longer."
+Code 34: "Code 34: Tail thicker for longer, Description: Notes the tail remains thicker for longer., Quote: Like, it's thicker for longer,"
+Code 35: "Code 35: Reduced tail curvature, Description: States the tail doesn't curve as well., Quote: it doesn't curve as well."
+Code 36: "Code 36: Flatter tail, Description: Adds that the tail is a little bit flatter., Quote: It's a little bit flatter."
+Code 37: "Code 37: Quadrupedal posture, Description: States the dinosaur is quadrupedal., Quote: This one's quadrupedal"
+Code 38: "Code 38: Four legs stated, Description: Explicitly mentions it has four legs., Quote: so it's got four legs on it."
+Code 39: "Code 39: Shorter body length, Description: Describes it as definitely shorter in length than others., Quote: It's definitely shorter than the other ones in length."
+Code 40: "Code 40: Probably wider body, Description: Suggests the body is probably wider., Quote: I imagine he's probably wider"
+Code 41: "Code 41: Tail thicker for longer, Description: Notes the tail is thicker for longer., Quote: Thicker for longer,"
+Code 42: "Code 42: Tail stops short, Description: States the tail stops short., Quote: and stops short"
+Code 43: "Code 43: Dorsal spikes, Description: Mentions spikes on the back., Quote: the spikes on the back."
+Code 44: "Code 44: Arched upward neck profile, Description: Describes an arched neck that goes down then up again., Quote: An arched, like, neck upwards, instead of it, like, smoothly curving up, it sort of goes down and then up again."
+Code 45: "Code 45: Weird nose piece, Description: Notes a weird nose piece., Quote: It's got some sort of weird nose piece on it."
+Code 46: "Code 46: Longer mouth, Description: States it has a longer mouth., Quote: it's got a longer, like, mouth"
+Code 47: "Code 47: Defined jaw visible, Description: Mentions a defined jaw is visible., Quote: you can also see, like, a defined, like, jaw on this one as well"
+Code 48: "Code 48: Jaw not visible on others, Description: States the jaw wasn't visible on some others., Quote: you can also see, like, a defined, like, jaw on this one as well, whereas some of the other ones, I feel like you couldn't, with the amount of skin that's there."
+Code 49: "Code 49: Stubby mouth, Description: Restates a stubby mouth for this specimen., Quote: he's also got a stubby mouth."
+Code 50: "Code 50: Long front, Description: Mentions a long front., Quote: Like, he's got, like, a long, like, front,"
+Code 51: "Code 51: Mouth not that long, Description: Clarifies the mouth itself isn't that long., Quote: but his mouth actually isn't, like, that long"
+Code 52: "Code 52: Limited mouth gape, Description: States the mouth wouldn't open very wide., Quote: It wouldn't open very wide, is what I'm trying to say."
+Code 53: Bipedal, Description: Participant identifies a dinosaur as bipedal., Quote: Okay. So this one… is bipedal, and I'm guessing it's a plant eater, around, like, small to medium size.
+Code 54: Herbivore guess, Description: Participant guesses the dinosaur is a plant eater., Quote: Okay. So this one… is bipedal, and I'm guessing it's a plant eater, around, like, small to medium size.
+Code 55: Small–medium size estimate, Description: Participant estimates the dinosaur is small to medium in size., Quote: Okay. So this one… is bipedal, and I'm guessing it's a plant eater, around, like, small to medium size.
+Code 56: Carnivore identification, Description: Participant says a dinosaur looks like a carnivore., Quote: Hmm…. This one looks like a carnivore, um, also bipedal, small to medium size.
+Code 57: Confusion between two, Description: Participant reports confusing two dinosaurs during the experiment., Quote: I probably got these two confused during the actual experiment.
+Code 58: Herbivore certainty, Description: Participant states a dinosaur is definitely a herbivore., Quote: Um, definitely a herbivore.
+Code 59: Really big size, Description: Participant describes a dinosaur as really big., Quote: Um, really big.
+Code 60: Resembles brachiosaurs, Description: Participant says a dinosaur looks like brachiosaurs and notes very long, super big ones., Quote: I don't know, like, it looks like the… the brachiosaurs, about the ones with, like, the really long, like, the super big ones.
+Code 61: Movie reference, Description: Participant references seeing the dinosaur type in dinosaur movies., Quote: That you always see in, like, those dinosaur movies.
+Code 62: Small legs balance concern, Description: Participant comments that small legs might cause tipping and balance issues., Quote: The legs are so small, because I would assume they would, like, tip over and, like, not have balance.
+Code 63: Eats plants assertion, Description: Participant asserts that a dinosaur eats plants., Quote: This one, I know eats plants.
+Code 64: Fossil at UBC, Description: Participant mentions a fossil of the dinosaur at UBC., Quote: Um, I think we have, like, a fossil of it at UBC.
+Code 65: Funky cow comparison, Description: Participant compares a dinosaur’s appearance to a funky cow., Quote: Kind of looks like a funky cow.
+Code 66: Pretty big recollection, Description: Participant recalls the dinosaur being pretty big., Quote: I think it's pretty big, too, I remember.
+Code 67: Herbivory inferred from mouth and hood, Description: Participant uses mouth shape and hood to infer plant eating., Quote: I guess, like, I've… I don't know, like, just, like…. From the mouth shape and, like, the hood.
+Code 68: Crest function: mating or heat, Description: Participant suggests the top structure might be for mating or heat., Quote: And I think the thing on the top is an a mating thing, not so much, uh, whatever, or like a heat… yeah, I don't know.
+Code 69: Slow runner appearance, Description: Participant says the dinosaur doesn't look fast., Quote: It doesn't look like you can run that fast, so I'm just gonna guess it uses plants.
+Code 70: Color accuracy uncertainty, Description: Participant expresses uncertainty about the accuracy of the colors., Quote: Okay, well, this one… I don't know how accurate the colors are.
+Code 71: Blunt mouth for grinding, Description: Participant links a non-pointy mouth to grinding grass., Quote: But, like, the mouth part for this one doesn't seem that pointy, and like…. So, like, it's probably used for, like, grinding grass,
+Code 72: Sharp teeth and talons as weapons, Description: Participant identifies sharp teeth and long talons as body weapons., Quote: but then, like, this one has, like, really sharp teeth, and, like. Really, um, long…. Talons, or whatever, so probably, like, weapons on the body.
+Code 73: Foot hook observed, Description: Participant notes a hook on the back of the foot in one but not another., Quote: This one has the little…. Hook on the back of the foot, but this one doesn't.
+Code 74: Hook indicates closeness, Description: Participant uses presence of a hook to infer closeness between two dinosaurs., Quote: This one also has a hook. So I'm guessing it would be closer to this one than this one.
+Code 75: Hook analogy to dogs, Description: Participant compares the hook feature to something seen on dogs and expresses discomfort., Quote: Um…. Yeah, no, some of them happen, and it's always, like, hanging on the dogs, and it, like, makes me, like, really uncomfortable.
+Code 76: Novel morphology, Description: Participant states they have never seen something like this before., Quote: I've never seen something like this before.
+Code 77: Hands function questioned, Description: Participant questions the function of the dinosaur's hands., Quote: Like, what are those hands used for?
+Code 78: Giraffe neck comparison, Description: Participant compares a long neck to giraffes using it to eat leaves., Quote: Yeah, because, like, I know that, like, like, giraffes, you know, they have, like, really long necks, to, like, eat the leaves that, like, so they don't have to fight for it,
+Code 79: Hands to grab tree speculation, Description: Participant speculates hands might be used to grab onto a tree., Quote: What are the hands for? Maybe we have to, like, grab onto the tree, I don't know.
+Code 80: Quadrupedal, Description: Participant identifies a dinosaur as being on all fours., Quote: This one is, like, kind of the one on all fours.
+Code 81: Comparison to Stegosaurus, Description: Participant compares the dinosaur to Stegosaurus., Quote: Other than, like, the stegosaurus?
+Code 82: Different skin noted, Description: Participant remarks that the skin looks very different., Quote: But, like, I don't know, like, the skin is so different.
+Code 83: Relatedness uncertainty, Description: Participant expresses uncertainty about how related the dinosaurs are., Quote: I'm like, I don't know how related they are, other than the fact that they're….
+Code 84: Evolution uncertainty, Description: Participant is unsure about what evolves faster., Quote: I don't know what evolves faster, like, if you go from.
+Code 85: Evolution to spiky hide uncertainty, Description: Participant questions evolutionary change to a spiky hide., Quote: To go from like...4 leg to 2 leg, or like…. This to, like, the spiky hide thing.
+Code 86: Spikes function debated, Description: Participant reports spikes on the back being debated as mating or cooling structures., Quote: I think they were… from, like, my Grade 2 knowledge, they were always, like, debated. It was either people thought it was mating, but then they also thought it was, like, to, like, cool them down.
+Code 87: “Code 1: Focus on limb configuration, Description: Participant prioritizes assessing leg and arm configuration., Quote: the things I immediately notice are the configuration of the legs and arms”
+Code 88: “Code 2: Bipedal stance, Description: Participant describes two legs on the ground (bipedal)., Quote: 2 legs on the ground”
+Code 89: “Code 3: Reduced forelimbs, Description: Participant notes smaller, shorter forelimbs., Quote: the smaller, shorter arms”
+Code 90: “Code 4: Long neck, Description: Participant describes a long neck., Quote: a long neck”
+Code 91: “Code 5: Small head, Description: Participant describes a small head., Quote: a kind of small head.”
+Code 92: “Code 6: Small mouth, Description: Participant describes a small mouth., Quote: a small mouth as well”
+Code 93: “Code 7: Very long tail, Description: Participant describes a very long tail., Quote: a very long tail”
+Code 94: “Code 8: Head-focused observation, Description: Participant goes directly to examining the head., Quote: I go directly to the head”
+Code 95: “Code 9: Coloration deprioritized, Description: Participant notices coloration but considers it last., Quote: The coloration is another thing I noticed. But that would be the last thing that I would consider about this.”
+Code 96: “Code 10: Bipedal stance, Description: Reiterates two legs on the ground., Quote: the 2 legs on the ground”
+Code 97: “Code 11: Reduced forelimbs, Description: Notes two smaller arms., Quote: the 2 smaller... 2 smaller arms”
+Code 98: “Code 12: Shorter neck, Description: Describes a slightly shorter neck., Quote: a slightly shorter neck”
+Code 99: “Code 13: Wide, long mouth, Description: Describes the mouth as wider and longer., Quote: the wider, longer mouth.”
+Code 100: “Code 14: Large head (relative), Description: Describes head as quite big compared to other examples., Quote: Um...and quite a big head compared to some of the examples,”
+Code 101: “Code 15: Consistent tail, Description: Describes tail as consistent with others., Quote: a similar kind of consistent tail,”
+Code 102: “Code 16: Coloration similar to others, Description: Notes coloration pattern similar to other dinosaurs., Quote: the coloration pattern... is... yeah, similar to some of the other dinosaurs.”
+Code 103: “Code 17: Bipedal stance, Description: Again notes two legs on the ground., Quote: the 2 legs on the ground”
+Code 104: “Code 18: Reduced forelimbs, Description: Mentions slightly smaller arms., Quote: the slightly smaller arms”
+Code 105: “Code 19: Longer neck, Description: Describes a longer neck., Quote: a longer neck”
+Code 106: “Code 20: Very small head, Description: Describes a very small head., Quote: a very small head,”
+Code 107: “Code 21: Beak-like mouth, Description: Characterizes mouth as beak-like., Quote: with almost kind of a beak-like mouth,”
+Code 108: “Code 22: Very long tail, Description: Again describes a very long tail., Quote: a very long tail”
+Code 109: “Code 23: Elongated body shape, Description: Describes an elongated body shape., Quote: an elongated body shape.”
+Code 110: “Code 24: Quadrupedal stance, Description: Describes all four legs on the ground (quadrupedal)., Quote: it has all 4 legs on the ground.”
+Code 111: “Code 25: Large head, Description: Describes a fairly large head., Quote: a fairly large head,”
+Code 112: “Code 26: Obscure head pattern, Description: Notes an obscure pattern in the head region., Quote: kind of an obscure pattern in the head region,”
+Code 113: “Code 27: Weird coloration, Description: Describes coloration as weird., Quote: some weird coloration,”
+Code 114: “Code 28: Dorsal spikes, Description: Notes spikes along the back., Quote: these spikes that run along its back,”
+Code 115: “Code 29: Large body, Description: Describes a fairly big body., Quote: a fairly big body”
+Code 116: “Code 30: Short tail relative to body, Description: Notes a short tail relative to body., Quote: more of a short tail in comparison to the body.”
+Code 117: "Code 1: Green coloration, Description: Participant describes the dinosaur's color as green., Quote: Green, long neck, long tail."
+Code 118: "Code 2: Long neck, Description: Participant notes a long neck., Quote: Green, long neck, long tail."
+Code 119: "Code 3: Long tail, Description: Participant notes a long tail., Quote: Green, long neck, long tail."
+Code 120: "Code 4: Lean body, Description: Participant describes a slender body build., Quote: Kind of skinny, lean,"
+Code 121: "Code 5: Cute appearance, Description: Participant evaluates the dinosaur as cute-looking., Quote: kind of cute looking,"
+Code 122: "Code 6: Small arms, Description: Participant notes the dinosaur has small arms., Quote: small arms."
+Code 123: "Code 7: Popular toy resemblance, Description: Participant says the dinosaur reminds them of a popular toy depiction., Quote: Kind of reminds me of, like, the toy, or, like, this one is very popular... that I see a lot."
+Code 124: "Code 8: Popular familiarity, Description: Participant reports familiarity because it is seen often., Quote: this one is very popular... that I see a lot."
+Code 125: "Code 9: Familiar appearance, Description: Participant states the appearance is familiar like many toys., Quote: It has, like, a very familiar appearance, like a lot of the toys."
+Code 126: "Code 10: Not beak-like, Description: Participant remarks that the dinosaur does not appear beak-like., Quote: Not very beak-like."
+Code 127: "Code 11: More scary appearance, Description: Participant finds this dinosaur more scary., Quote: This one looks a little bit more scary."
+Code 128: "Code 12: Less cute, Description: Participant reports it looks less cute., Quote: Less cute."
+Code 129: "Code 13: Adult version resemblance, Description: Participant says it looks like an adult version of another one., Quote: It looks like an adult version of the one I just saw."
+Code 130: "Code 14: Longer mouth, Description: Participant notes a longer mouth., Quote: It has a longer mouth."
+Code 131: "Code 15: Alligator-like look, Description: Participant compares the dinosaur's appearance to an alligator., Quote: It kind of looks like an alligator."
+Code 132: "Code 16: Green with brown, Description: Participant describes coloration as green with more brown., Quote: Green as well, has more brown."
+Code 133: "Code 17: Less familiar, Description: Participant indicates this dinosaur is less familiar to them., Quote: Less familiar to me."
+Code 134: "Code 18: Resembles familiar one, Description: Participant says it resembles a familiar dinosaur., Quote: It resembles one that is familiar, I think."
+Code 135: "Code 19: Raptor comparison, Description: Participant thinks it might be a raptor., Quote: I'm thinking of a raptor, but I don't know if that's a raptor."
+Code 136: "Code 20: Arms too long, Description: Participant notes the arms seem too long for a raptor comparison., Quote: it looks like a raptor, but its arms look a little too long."
+Code 137: "Code 21: Identification uncertainty, Description: Participant expresses uncertainty about identification., Quote: I don't even know."
+Code 138: "Code 22: Herbivore inference, Description: Participant infers the dinosaur eats vegetables., Quote: This one, I think, is the one that eats vegetables."
+Code 139: "Code 23: Long neck reason, Description: Participant cites the long neck as the reason for herbivory., Quote: Because of it's long neck."
+Code 140: "Code 24: Correctness uncertainty, Description: Participant is unsure if their inference is correct., Quote: I don't know if I'm right or wrong."
+Code 141: "Code 25: Fatter version, Description: Participant describes it as a fatter version., Quote: It looks like a fatter version of it, though."
+Code 142: "Code 26: Eats vegetables, Description: Participant says it looks like it eats a lot of vegetables., Quote: it looks more like it eats a lot of vegetables."
+Code 143: "Code 27: Normally tinier belief, Description: Participant believes they are normally tinier., Quote: I thought they're normally, like, tinier,"
+Code 144: "Code 28: Type or family, Description: Participant speculates it might be a type or family of another., Quote: maybe it's, like, a type or a family of that..."
+Code 145: "Code 29: Thought more green, Description: Participant thought these dinosaurs were more green., Quote: And I also thought they were more green, so, I don't know."
+Code 146: "Code 30: Media influence acknowledged, Description: Participant attributes prior beliefs to movies and similar media., Quote: But that might be just from, like, movies and things like that,"
+Code 147: "Code 31: Veggie eater, Description: Participant labels it as the veggie eater, the long-neck ones., Quote: it looks like the veggie eater, the long neck ones."
+Code 148: "Code 32: Very long tail, Description: Participant notes the tail looks very long compared to what they know., Quote: Its tail looks very long in comparison to what I know."
+Code 149: "Code 33: Less scary evaluation, Description: Participant evaluates this dinosaur as less scary., Quote: It looks, yeah, less scary."
+Code 150: "Code 34: No idea, Description: Participant states they have no idea what the dinosaur is., Quote: This one, I have no idea what it is."
+Code 151: "Code 35: Never seen before, Description: Participant says they have never seen this dinosaur before., Quote: I've never seen it before."
+Code 152: "Code 36: Deer-like appearance, Description: Participant compares the dinosaur to a deer., Quote: It looks like a deer,"
+Code 153: "Code 37: Deer-like contradiction, Description: Participant notes it also doesn't look like a deer., Quote: but then it doesn't look like a deer."
+Code 154: "Code 38: Bird-like appearance, Description: Participant compares the dinosaur to a bird., Quote: It looks like a bird,"
+Code 155: "Code 39: Bird-like contradiction, Description: Participant notes it also doesn't look like a bird., Quote: It looks like a bird, but not, at the same time,"
+Code 156: "Code 40: Deer-bird combo, Description: Participant says it looks like a combination of a deer and a bird., Quote: so it looks like a combination of a deer and a bird"
+Code 157: "Code 41: Rough/spiky texture, Description: Participant describes the texture as rough and spiky., Quote: very rough-looking so... like spiky."
+Code 158: "Code 42: Many wrinkles, Description: Participant observes many wrinkles., Quote: he has a lot of wrinkles."
+Code 159: "Code 43: Cute face, Description: Participant finds the face really cute., Quote: it kind of has a really cute face though, I'm not gonna lie."
+Code 160: "Code 44: Deer type, Description: Participant reiterates a deer-like impression., Quote: Like, it looks like a deer of some sort."
+Code 161: "Code 45: Name origin, Description: Participant asks if the name is because of their faces., Quote: Really? Oh, is it because of their faces?"
+Code 162: "Code 46: Cuteness reaction, Description: Participant reacts by calling it cute., Quote: That's kind of cute. That's cute."
+Code 163: Long skinny tail, Description: Participant notes the tail is long and thin., Quote: it looks like a green, long, skinny tail.
+Code 164: Green coloration, Description: Participant reports green coloration., Quote: it looks like a green, long, skinny tail.
+Code 165: Long neck curving upwards, Description: Participant describes the neck as long and curved upward., Quote: a long neck curving upwards
+Code 166: Small head, Description: Participant identifies a small head., Quote: looks like a small head.
+Code 167: Two legs and two arms, Description: Participant notes the presence of two legs and two arms., Quote: two legs and two arms sticking out.
+Code 168: Green and grey pattern, Description: Participant describes a green and grey patterning., Quote: it looks like a green and, let's see, grey pattern
+Code 169: Scales on top, Description: Participant observes scales on the top region., Quote: some scales I see at the top.
+Code 170: Yellow ventral outline, Description: Participant describes a yellow outline along the underside from neck to tail section., Quote: a yellow outline on the bottom from the neck to some of the tail
+Code 171: Claws present, Description: Participant mentions claws., Quote: along with some claws it seems
+Code 172: Toes present, Description: Participant mentions toes., Quote: and toes.
+Code 173: Mouth open, Description: Participant notes an open mouth., Quote: mouth open
+Code 174: Teeth visible, Description: Participant reports visible teeth., Quote: teeth
+Code 175: Skinny tail, Description: Participant describes a thin tail., Quote: a skinny tail.
+Code 176: Two legs and two arms, Description: Participant again notes two legs and two arms., Quote: two legs and two arms.
+Code 177: Small eye, Description: Participant identifies a small eye., Quote: a small eye.
+Code 178: Brown outline at top, Description: Participant notes a brown outline along the dorsal/top area., Quote: it's a brown, like, outline at the top
+Code 179: Alternating brown and green, Description: Participant describes color alternation between brown and green., Quote: it's followed by alternating between brown and green.
+Code 180: Pattern on body and legs, Description: Participant states the pattern extends across the body and legs., Quote: on the body- main body, and on the legs as well
+Code 181: Uncertainty toes vs claws, Description: Participant expresses uncertainty distinguishing toes from claws., Quote: I think, toe... claws
+Code 182: Skinny nails, Description: Participant describes nails as skinny., Quote: a lot more skinny nails
+Code 183: Skinny toes, Description: Participant describes toes as skinny., Quote: skinny toes
+Code 184: Two pointy things at back, Description: Participant notes two pointed structures at the back of the foot., Quote: two pointy things at the back as well...
+Code 185: Thicker body, Description: Participant describes a much thicker overall build., Quote: it's a lot- looks like this is a much thicker one
+Code 186: Looks fat, Description: Participant characterizes the body as fat., Quote: looks fat.
+Code 187: Longer neck, Description: Participant indicates the neck is longer., Quote: Longer neck.
+Code 188: Longer and skinnier neck, Description: Participant specifies the neck is both longer and skinnier., Quote: longer and skinnier neck
+Code 189: Long nails with one on back, Description: Participant notes long nails and an additional one at the back., Quote: long nails along with one on the back
+Code 190: Long arms, Description: Participant describes the arms as long., Quote: the arms again, same long ones
+Code 191: Much longer tail, Description: Participant reports a much longer tail., Quote: a much longer tail
+Code 192: Dark brown coloration, Description: Participant mentions dark brown color., Quote: it looks like a dark brown
+Code 193: Uncertainty about color, Description: Participant expresses uncertainty regarding color assessment., Quote: I think- I'm not sure-
+Code 194: Dark-light contrast ventrally, Description: Participant describes darker tones alternating with lighter on belly and tail underside., Quote: alternating along with the lighter... on the belly and on the bottom of the tail.
+Code 195: Spots present, Description: Participant notes the presence of spots., Quote: I see some spots as well.
+Code 196: Spiky pattern on tail, Description: Participant observes a spiky pattern along the tail., Quote: spiky pattern on the tail.
+Code 197: Quadrupedal stance, Description: Participant reports the animal is on four legs., Quote: it's on four legs
+Code 198: Blue and green pattern with scales, Description: Participant describes a blue and green pattern accompanied by scales., Quote: has a blue and green pattern with scales.
+Code 199: Straighter tail, Description: Participant notes a much straighter tail., Quote: a much straighter tail
+Code 200: Spikes at top of body, Description: Participant describes spikes along the top of the body., Quote: spikes at the top of the body.
+Code 201: Fan shape on mouth, Description: Participant notes a fan-shaped structure associated with the mouth., Quote: some sort of fan shape on its mouth.
+Code 202: White ventral and leg outline, Description: Participant describes a white outline on the belly and legs., Quote: a white, like, outline at the bottom, like on the bottom of its belly, and legs
+Code 203: Toenails thicker and shorter, Description: Participant reports the toenails are thicker and shorter., Quote: the nails or toenails are a lot less long and instead more thicker and shorter.
+Code 204: Nails not nail-like, Description: Participant states the structures do not really look like nails., Quote: They don't really look like nails, they look more like...
+Code 205: Horse-shaped, Description: Participant compares the shape to that of a horse., Quote: -looks more like a horse-shaped.
+Code 206: Hooves, Description: Participant identifies hoof-like structures., Quote: Hooves. Yeah.
+Code 207: Spike row at top, Description: Participant notes a row of spikes along the top., Quote: a spike row at the top it seems.

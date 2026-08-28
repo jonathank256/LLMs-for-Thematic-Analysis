@@ -1,0 +1,20 @@
+Code 1: Prosauropod identification, Description: Identifies the dinosaur as a prosauropod., Quote: So this is a prosauropod,
+Code 2: Related to long-neck dinosaurs, Description: States prosauropods are related to long-neck dinosaurs., Quote: so this is related to the long neck dinosaurs.
+Code 3: Early in dinosaur lineage, Description: Describes the group as early in the dinosaur lineage., Quote: These are early in the dinosaur lineage,
+Code 4: Related to sauropods and theropods, Description: Links the group to both sauropods and theropods., Quote: and so they are related to both the long neck dinosaurs, the sauropods, and to the theropods,
+Code 5: Theropods are bipedal carnivores, Description: Defines theropods as bipedal carnivorous dinosaurs., Quote: so the bipedal carnivorous dinosaurs.
+Code 6: Root of Saurischians, Description: Positions the group as a root for Saurischians (lizard-hipped dinosaurs)., Quote: And so they're kind of a root for what are called the Saurischians, or the lizard-hipped dinosaurs.
+Code 7: Therizinosaur identification, Description: Identifies the dinosaur as a therizinosaur., Quote: This is a therizinosaur.
+Code 8: Therizinosaur is a theropod, Description: States therizinosaurs are theropods., Quote: They are a theropod,
+Code 9: Theropods are bipedal carnivores, Description: Defines theropods as bipedal carnivorous dinosaurs., Quote: so a bipedal carnivorous dinosaur,
+Code 10: Long front claws, Description: Notes long claws on the front feet., Quote: famous for their long claws on the front, the front feet there.
+Code 11: Prosauropod identification, Description: Identifies the dinosaur as another prosauropod., Quote: This is another prosauropod.
+Code 12: Early relative of sauropods and theropods, Description: Describes as an early relative of long-neck and meat-eating dinosaurs., Quote: So again, early relative of both long neck dinosaurs and the meat-eating dinosaurs,
+Code 13: Early in dinosaur lineage, Description: Positions the group early in the dinosaur lineage., Quote: so kind of early on in the dinosaur lineage.
+Code 14: Lambeosaurus identification, Description: Identifies the dinosaur as a lambeosaurus., Quote: This is a lambeosaurus,
+Code 15: Big duck-bill dinosaur, Description: States lambeosaurus is one of the big duck-bill dinosaurs., Quote: which is one of the big duck bill dinosaurs,
+Code 16: Late Cretaceous, Description: Places the dinosaur in the Late Cretaceous., Quote: late Cretaceous dinosaurs.
+Code 17: Crested hadrosaur, Description: Describes the dinosaur as a crested hadrosaur., Quote: This is a crested hadrosaur,
+Code 18: Flat-headed hadrosaur type, Description: Mentions another hadrosaur type with a flat head., Quote: so there's also another type of hadrosaur that had a flat head as well.
+Code 19: Largest duck-bill dinosaurs, Description: Claims they are among the largest duck-bill dinosaurs., Quote: So these are some of the largest duckbill dinosaurs
+Code 20: Largest bird-hip dinosaurs, Description: Clarifies as some of the largest bird-hip dinosaurs (ornithischians)., Quote: sorry largest bird-hip dinosaurs or ornithischians.
