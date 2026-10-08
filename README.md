@@ -1,5 +1,7 @@
 # LLM-Assisted Thematic Analysis Pipeline
 
+Status: Complete / Exploring a New Direction
+
 A multi-stage pipeline that uses LLMs to perform inductive qualitative thematic analysis (TA) on interview transcripts, following Braun & Clarke's six-phase TA framework. Originally created for a study on how novices and experts verbally identify and describe dinosaur specimens, but the pipeline itself is domain-agnostic. The prompts can be swapped for use within any qualitative research domain.
 
 Developed as part of research at the University of Victoria's Different Minds Lab (DML), with equal collaboration from myself alongside Abby Hunter and Tove Jensen, and our PI, Jim Tanaka. 
