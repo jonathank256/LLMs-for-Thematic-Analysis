@@ -86,4 +86,4 @@ Raw interview transcripts (`participant-interviews/`) are **not included** in th
 
 ## Acknowledgments
 
-Built as part of research at UVic's Different Minds Lab. Study data has been presented at NOWCAM conferences (2024, 2025).
+Built as part of research at UVic's Different Minds Lab. Study data has been presented at NOWCAM conferences (2025, 2026).
