@@ -1,6 +1,6 @@
 # LLM-Assisted Thematic Analysis Pipeline
 
-Status: Complete / Exploring a New Direction
+Status: Complete
 
 A multi-stage pipeline that uses LLMs to perform inductive qualitative thematic analysis (TA) on interview transcripts, following Braun & Clarke's six-phase TA framework. Originally created for a study on how novices and experts verbally identify and describe dinosaur specimens, but the pipeline itself is domain-agnostic. The prompts can be swapped for use within any qualitative research domain.
 
